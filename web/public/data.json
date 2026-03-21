@@ -1,0 +1,1883 @@
+{
+  "updated": "2026-03-16 20:56",
+  "countries": {
+    "US": {
+      "name": "Estados Unidos",
+      "etf": {
+        "ticker": "SPY",
+        "name": "State Street SPDR S&P 500 ETF T",
+        "trailingPE": 26.54,
+        "forwardPE": null,
+        "enterpriseToEbitda": null,
+        "pegRatio": null,
+        "priceToBook": 1.56
+      },
+      "sectors": {
+        "Tecnologia": {
+          "companies": [
+            {
+              "ticker": "AAPL",
+              "name": "Apple Inc.",
+              "trailingPE": 32.0,
+              "forwardPE": 27.2,
+              "enterpriseToEbitda": 24.43,
+              "pegRatio": null,
+              "priceToBook": 42.15
+            },
+            {
+              "ticker": "MSFT",
+              "name": "Microsoft Corporation",
+              "trailingPE": 25.03,
+              "forwardPE": 21.22,
+              "enterpriseToEbitda": 17.14,
+              "pegRatio": null,
+              "priceToBook": 7.6
+            },
+            {
+              "ticker": "NVDA",
+              "name": "NVIDIA Corporation",
+              "trailingPE": 37.39,
+              "forwardPE": 16.97,
+              "enterpriseToEbitda": 33.03,
+              "pegRatio": null,
+              "priceToBook": 28.31
+            },
+            {
+              "ticker": "GOOGL",
+              "name": "Alphabet Inc.",
+              "trailingPE": 28.24,
+              "forwardPE": 22.78,
+              "enterpriseToEbitda": 24.21,
+              "pegRatio": null,
+              "priceToBook": 8.89
+            },
+            {
+              "ticker": "META",
+              "name": "Meta Platforms, Inc.",
+              "trailingPE": 26.69,
+              "forwardPE": 17.49,
+              "enterpriseToEbitda": 15.61,
+              "pegRatio": null,
+              "priceToBook": 7.31
+            },
+            {
+              "ticker": "AMZN",
+              "name": "Amazon.com, Inc.",
+              "trailingPE": 29.57,
+              "forwardPE": 22.67,
+              "enterpriseToEbitda": 15.98,
+              "pegRatio": null,
+              "priceToBook": 5.53
+            },
+            {
+              "ticker": "AMD",
+              "name": "Advanced Micro Devices, Inc.",
+              "trailingPE": 75.32,
+              "forwardPE": 18.29,
+              "enterpriseToEbitda": 46.55,
+              "pegRatio": null,
+              "priceToBook": 5.09
+            },
+            {
+              "ticker": "INTC",
+              "name": "Intel Corporation",
+              "trailingPE": null,
+              "forwardPE": 46.17,
+              "enterpriseToEbitda": 19.82,
+              "pegRatio": null,
+              "priceToBook": 2.0
+            },
+            {
+              "ticker": "CRM",
+              "name": "Salesforce, Inc.",
+              "trailingPE": 25.4,
+              "forwardPE": 13.3,
+              "enterpriseToEbitda": 15.24,
+              "pegRatio": null,
+              "priceToBook": 3.12
+            },
+            {
+              "ticker": "ORCL",
+              "name": "Oracle Corporation",
+              "trailingPE": 29.32,
+              "forwardPE": 19.57,
+              "enterpriseToEbitda": 20.17,
+              "pegRatio": null,
+              "priceToBook": 13.37
+            },
+            {
+              "ticker": "ADBE",
+              "name": "Adobe Inc.",
+              "trailingPE": 15.08,
+              "forwardPE": 9.56,
+              "enterpriseToEbitda": 10.9,
+              "pegRatio": null,
+              "priceToBook": 9.03
+            },
+            {
+              "ticker": "QCOM",
+              "name": "QUALCOMM Incorporated",
+              "trailingPE": 26.09,
+              "forwardPE": 11.61,
+              "enterpriseToEbitda": 10.25,
+              "pegRatio": null,
+              "priceToBook": 6.02
+            },
+            {
+              "ticker": "TXN",
+              "name": "Texas Instruments Incorporated",
+              "trailingPE": 35.55,
+              "forwardPE": 24.55,
+              "enterpriseToEbitda": 23.13,
+              "pegRatio": null,
+              "priceToBook": 10.82
+            },
+            {
+              "ticker": "AVGO",
+              "name": "Broadcom Inc.",
+              "trailingPE": 63.46,
+              "forwardPE": 18.4,
+              "enterpriseToEbitda": 4.38,
+              "pegRatio": null,
+              "priceToBook": 5.49
+            },
+            {
+              "ticker": "MU",
+              "name": "Micron Technology, Inc.",
+              "trailingPE": 41.96,
+              "forwardPE": 7.8,
+              "enterpriseToEbitda": 22.46,
+              "pegRatio": null,
+              "priceToBook": 8.46
+            }
+          ],
+          "averages": {
+            "trailingPE": 35.08,
+            "forwardPE": 19.84,
+            "enterpriseToEbitda": 20.22,
+            "pegRatio": null,
+            "priceToBook": 10.88
+          }
+        },
+        "Finanzas": {
+          "companies": [
+            {
+              "ticker": "JPM",
+              "name": "JP Morgan Chase & Co.",
+              "trailingPE": 14.3,
+              "forwardPE": 12.18,
+              "enterpriseToEbitda": null,
+              "pegRatio": null,
+              "priceToBook": 2.25
+            },
+            {
+              "ticker": "BAC",
+              "name": "Bank of America Corporation",
+              "trailingPE": 12.35,
+              "forwardPE": 9.5,
+              "enterpriseToEbitda": null,
+              "pegRatio": null,
+              "priceToBook": 1.22
+            },
+            {
+              "ticker": "WFC",
+              "name": "Wells Fargo & Company",
+              "trailingPE": 12.1,
+              "forwardPE": 9.56,
+              "enterpriseToEbitda": null,
+              "pegRatio": null,
+              "priceToBook": 1.42
+            },
+            {
+              "ticker": "GS",
+              "name": "Goldman Sachs Group, Inc. (The)",
+              "trailingPE": 15.49,
+              "forwardPE": 12.22,
+              "enterpriseToEbitda": null,
+              "pegRatio": null,
+              "priceToBook": 2.23
+            },
+            {
+              "ticker": "MS",
+              "name": "Morgan Stanley",
+              "trailingPE": 15.25,
+              "forwardPE": 12.65,
+              "enterpriseToEbitda": null,
+              "pegRatio": null,
+              "priceToBook": 2.42
+            },
+            {
+              "ticker": "BLK",
+              "name": "BlackRock, Inc.",
+              "trailingPE": 26.72,
+              "forwardPE": 15.25,
+              "enterpriseToEbitda": 15.81,
+              "pegRatio": null,
+              "priceToBook": 2.62
+            },
+            {
+              "ticker": "AXP",
+              "name": "American Express Company",
+              "trailingPE": 19.38,
+              "forwardPE": 14.8,
+              "enterpriseToEbitda": null,
+              "pegRatio": null,
+              "priceToBook": 6.11
+            },
+            {
+              "ticker": "V",
+              "name": "Visa Inc.",
+              "trailingPE": 29.09,
+              "forwardPE": 21.34,
+              "enterpriseToEbitda": 20.58,
+              "pegRatio": null,
+              "priceToBook": 15.48
+            },
+            {
+              "ticker": "MA",
+              "name": "Mastercard Incorporated",
+              "trailingPE": 30.76,
+              "forwardPE": 22.47,
+              "enterpriseToEbitda": 22.51,
+              "pegRatio": null,
+              "priceToBook": 58.76
+            },
+            {
+              "ticker": "C",
+              "name": "Citigroup, Inc.",
+              "trailingPE": 15.36,
+              "forwardPE": 8.87,
+              "enterpriseToEbitda": null,
+              "pegRatio": null,
+              "priceToBook": 0.98
+            }
+          ],
+          "averages": {
+            "trailingPE": 19.08,
+            "forwardPE": 13.88,
+            "enterpriseToEbitda": 19.63,
+            "pegRatio": null,
+            "priceToBook": 9.35
+          }
+        },
+        "Salud": {
+          "companies": [
+            {
+              "ticker": "JNJ",
+              "name": "Johnson & Johnson",
+              "trailingPE": 22.03,
+              "forwardPE": 19.35,
+              "enterpriseToEbitda": 18.18,
+              "pegRatio": null,
+              "priceToBook": 7.18
+            },
+            {
+              "ticker": "PFE",
+              "name": "Pfizer, Inc.",
+              "trailingPE": 19.57,
+              "forwardPE": 9.4,
+              "enterpriseToEbitda": 8.0,
+              "pegRatio": null,
+              "priceToBook": 1.75
+            },
+            {
+              "ticker": "MRK",
+              "name": "Merck & Company, Inc.",
+              "trailingPE": 15.86,
+              "forwardPE": 11.81,
+              "enterpriseToEbitda": 11.04,
+              "pegRatio": null,
+              "priceToBook": 5.43
+            },
+            {
+              "ticker": "ABBV",
+              "name": "AbbVie Inc.",
+              "trailingPE": 93.44,
+              "forwardPE": 13.74,
+              "enterpriseToEbitda": 15.54,
+              "pegRatio": null,
+              "priceToBook": -119.7
+            },
+            {
+              "ticker": "LLY",
+              "name": "Eli Lilly and Company",
+              "trailingPE": 43.1,
+              "forwardPE": 23.58,
+              "enterpriseToEbitda": 29.04,
+              "pegRatio": null,
+              "priceToBook": 33.35
+            },
+            {
+              "ticker": "UNH",
+              "name": "UnitedHealth Group Incorporated",
+              "trailingPE": 21.58,
+              "forwardPE": 14.34,
+              "enterpriseToEbitda": 14.87,
+              "pegRatio": null,
+              "priceToBook": 2.75
+            },
+            {
+              "ticker": "CVS",
+              "name": "CVS Health Corporation",
+              "trailingPE": 54.56,
+              "forwardPE": 9.27,
+              "enterpriseToEbitda": 11.35,
+              "pegRatio": null,
+              "priceToBook": 1.28
+            },
+            {
+              "ticker": "MDT",
+              "name": "Medtronic plc.",
+              "trailingPE": 24.65,
+              "forwardPE": 14.48,
+              "enterpriseToEbitda": 14.11,
+              "pegRatio": null,
+              "priceToBook": 2.31
+            },
+            {
+              "ticker": "BMY",
+              "name": "Bristol-Myers Squibb Company",
+              "trailingPE": 17.26,
+              "forwardPE": 9.75,
+              "enterpriseToEbitda": 8.27,
+              "pegRatio": null,
+              "priceToBook": 6.58
+            },
+            {
+              "ticker": "AMGN",
+              "name": "Amgen Inc.",
+              "trailingPE": 25.7,
+              "forwardPE": 15.74,
+              "enterpriseToEbitda": 14.67,
+              "pegRatio": null,
+              "priceToBook": 22.79
+            }
+          ],
+          "averages": {
+            "trailingPE": 33.77,
+            "forwardPE": 14.15,
+            "enterpriseToEbitda": 14.51,
+            "pegRatio": null,
+            "priceToBook": -3.63
+          }
+        },
+        "Consumo discrecional": {
+          "companies": [
+            {
+              "ticker": "TSLA",
+              "name": "Tesla, Inc.",
+              "trailingPE": 359.6,
+              "forwardPE": 140.75,
+              "enterpriseToEbitda": 138.6,
+              "pegRatio": null,
+              "priceToBook": 18.06
+            },
+            {
+              "ticker": "NKE",
+              "name": "Nike, Inc.",
+              "trailingPE": 32.04,
+              "forwardPE": 23.83,
+              "enterpriseToEbitda": 22.07,
+              "pegRatio": null,
+              "priceToBook": 5.76
+            },
+            {
+              "ticker": "MCD",
+              "name": "McDonald's Corporation",
+              "trailingPE": 27.33,
+              "forwardPE": 22.81,
+              "enterpriseToEbitda": 19.6,
+              "pegRatio": null,
+              "priceToBook": -129.67
+            },
+            {
+              "ticker": "SBUX",
+              "name": "Starbucks Corporation",
+              "trailingPE": 81.52,
+              "forwardPE": 33.12,
+              "enterpriseToEbitda": 25.17,
+              "pegRatio": null,
+              "priceToBook": -13.28
+            },
+            {
+              "ticker": "HD",
+              "name": "Home Depot, Inc. (The)",
+              "trailingPE": 24.06,
+              "forwardPE": 21.0,
+              "enterpriseToEbitda": 16.16,
+              "pegRatio": null,
+              "priceToBook": 26.55
+            },
+            {
+              "ticker": "TGT",
+              "name": "Target Corporation",
+              "trailingPE": 14.4,
+              "forwardPE": 13.76,
+              "enterpriseToEbitda": 8.4,
+              "pegRatio": null,
+              "priceToBook": 3.28
+            },
+            {
+              "ticker": "LOW",
+              "name": "Lowe's Companies, Inc.",
+              "trailingPE": 20.41,
+              "forwardPE": 17.7,
+              "enterpriseToEbitda": 14.51,
+              "pegRatio": null,
+              "priceToBook": -13.7
+            },
+            {
+              "ticker": "BKNG",
+              "name": "Booking Holdings Inc. Common St",
+              "trailingPE": 25.95,
+              "forwardPE": 13.7,
+              "enterpriseToEbitda": 13.67,
+              "pegRatio": null,
+              "priceToBook": -24.55
+            },
+            {
+              "ticker": "CMG",
+              "name": "Chipotle Mexican Grill, Inc.",
+              "trailingPE": 29.89,
+              "forwardPE": 24.89,
+              "enterpriseToEbitda": 20.32,
+              "pegRatio": null,
+              "priceToBook": 15.71
+            }
+          ],
+          "averages": {
+            "trailingPE": 68.36,
+            "forwardPE": 34.62,
+            "enterpriseToEbitda": 30.94,
+            "pegRatio": null,
+            "priceToBook": -12.43
+          }
+        },
+        "Energia": {
+          "companies": [
+            {
+              "ticker": "XOM",
+              "name": "Exxon Mobil Corporation",
+              "trailingPE": 23.47,
+              "forwardPE": 18.3,
+              "enterpriseToEbitda": 11.82,
+              "pegRatio": null,
+              "priceToBook": 2.53
+            },
+            {
+              "ticker": "CVX",
+              "name": "Chevron Corporation",
+              "trailingPE": 29.69,
+              "forwardPE": 21.0,
+              "enterpriseToEbitda": 11.66,
+              "pegRatio": null,
+              "priceToBook": 2.09
+            },
+            {
+              "ticker": "COP",
+              "name": "ConocoPhillips",
+              "trailingPE": 19.11,
+              "forwardPE": 17.75,
+              "enterpriseToEbitda": 6.86,
+              "pegRatio": null,
+              "priceToBook": 2.3
+            },
+            {
+              "ticker": "SLB",
+              "name": "SLB Limited",
+              "trailingPE": 19.13,
+              "forwardPE": 13.5,
+              "enterpriseToEbitda": 9.91,
+              "pegRatio": null,
+              "priceToBook": 2.58
+            },
+            {
+              "ticker": "EOG",
+              "name": "EOG Resources, Inc.",
+              "trailingPE": 14.75,
+              "forwardPE": 11.97,
+              "enterpriseToEbitda": 6.64,
+              "pegRatio": null,
+              "priceToBook": 2.42
+            },
+            {
+              "ticker": "PXD",
+              "name": "PXD",
+              "trailingPE": null,
+              "forwardPE": null,
+              "enterpriseToEbitda": null,
+              "pegRatio": null,
+              "priceToBook": null
+            },
+            {
+              "ticker": "MPC",
+              "name": "Marathon Petroleum Corporation",
+              "trailingPE": 17.33,
+              "forwardPE": 15.28,
+              "enterpriseToEbitda": 11.08,
+              "pegRatio": null,
+              "priceToBook": 3.9
+            },
+            {
+              "ticker": "VLO",
+              "name": "Valero Energy Corporation",
+              "trailingPE": 30.76,
+              "forwardPE": 16.71,
+              "enterpriseToEbitda": 10.45,
+              "pegRatio": null,
+              "priceToBook": 2.93
+            }
+          ],
+          "averages": {
+            "trailingPE": 22.03,
+            "forwardPE": 16.36,
+            "enterpriseToEbitda": 9.77,
+            "pegRatio": null,
+            "priceToBook": 2.68
+          }
+        },
+        "Comunicaciones": {
+          "companies": [
+            {
+              "ticker": "NFLX",
+              "name": "Netflix, Inc.",
+              "trailingPE": 37.63,
+              "forwardPE": 24.8,
+              "enterpriseToEbitda": 30.0,
+              "pegRatio": null,
+              "priceToBook": 15.1
+            },
+            {
+              "ticker": "DIS",
+              "name": "Walt Disney Company (The)",
+              "trailingPE": 14.53,
+              "forwardPE": 13.41,
+              "enterpriseToEbitda": 11.46,
+              "pegRatio": null,
+              "priceToBook": 1.62
+            },
+            {
+              "ticker": "CMCSA",
+              "name": "Comcast Corporation",
+              "trailingPE": 5.63,
+              "forwardPE": 7.61,
+              "enterpriseToEbitda": 5.56,
+              "pegRatio": null,
+              "priceToBook": 1.13
+            },
+            {
+              "ticker": "T",
+              "name": "AT&T Inc.",
+              "trailingPE": 9.12,
+              "forwardPE": 10.88,
+              "enterpriseToEbitda": 7.99,
+              "pegRatio": null,
+              "priceToBook": 1.77
+            },
+            {
+              "ticker": "VZ",
+              "name": "Verizon Communications Inc.",
+              "trailingPE": 12.55,
+              "forwardPE": 9.69,
+              "enterpriseToEbitda": 7.64,
+              "pegRatio": null,
+              "priceToBook": 2.06
+            },
+            {
+              "ticker": "TMUS",
+              "name": "T-Mobile US, Inc.",
+              "trailingPE": 22.1,
+              "forwardPE": 15.28,
+              "enterpriseToEbitda": 10.81,
+              "pegRatio": null,
+              "priceToBook": 4.02
+            },
+            {
+              "ticker": "SPOT",
+              "name": "Spotify Technology S.A.",
+              "trailingPE": 43.2,
+              "forwardPE": 28.15,
+              "enterpriseToEbitda": 45.3,
+              "pegRatio": null,
+              "priceToBook": 11.3
+            },
+            {
+              "ticker": "WBD",
+              "name": "Warner Bros. Discovery, Inc. - ",
+              "trailingPE": 94.86,
+              "forwardPE": -1650.27,
+              "enterpriseToEbitda": 13.81,
+              "pegRatio": null,
+              "priceToBook": 1.9
+            }
+          ],
+          "averages": {
+            "trailingPE": 29.95,
+            "forwardPE": -192.56,
+            "enterpriseToEbitda": 16.57,
+            "pegRatio": null,
+            "priceToBook": 4.86
+          }
+        },
+        "Industria": {
+          "companies": [
+            {
+              "ticker": "BA",
+              "name": "Boeing Company (The)",
+              "trailingPE": 86.08,
+              "forwardPE": 45.38,
+              "enterpriseToEbitda": -60.34,
+              "pegRatio": null,
+              "priceToBook": 30.75
+            },
+            {
+              "ticker": "CAT",
+              "name": "Caterpillar, Inc.",
+              "trailingPE": 37.2,
+              "forwardPE": 25.27,
+              "enterpriseToEbitda": 25.81,
+              "pegRatio": null,
+              "priceToBook": 15.27
+            },
+            {
+              "ticker": "GE",
+              "name": "GE Aerospace",
+              "trailingPE": 37.72,
+              "forwardPE": 35.54,
+              "enterpriseToEbitda": 30.7,
+              "pegRatio": null,
+              "priceToBook": 17.07
+            },
+            {
+              "ticker": "HON",
+              "name": "Honeywell International Inc.",
+              "trailingPE": 33.79,
+              "forwardPE": 20.41,
+              "enterpriseToEbitda": 20.41,
+              "pegRatio": null,
+              "priceToBook": 10.72
+            },
+            {
+              "ticker": "UPS",
+              "name": "United Parcel Service, Inc.",
+              "trailingPE": 14.85,
+              "forwardPE": 12.24,
+              "enterpriseToEbitda": 8.63,
+              "pegRatio": null,
+              "priceToBook": 5.1
+            },
+            {
+              "ticker": "RTX",
+              "name": "RTX Corporation",
+              "trailingPE": 41.46,
+              "forwardPE": 27.44,
+              "enterpriseToEbitda": 21.11,
+              "pegRatio": null,
+              "priceToBook": 4.24
+            },
+            {
+              "ticker": "LMT",
+              "name": "Lockheed Martin Corporation",
+              "trailingPE": 30.0,
+              "forwardPE": 20.18,
+              "enterpriseToEbitda": 20.17,
+              "pegRatio": null,
+              "priceToBook": 21.98
+            },
+            {
+              "ticker": "DE",
+              "name": "Deere & Company",
+              "trailingPE": 32.29,
+              "forwardPE": 24.75,
+              "enterpriseToEbitda": 24.75,
+              "pegRatio": null,
+              "priceToBook": 5.88
+            },
+            {
+              "ticker": "MMM",
+              "name": "3M Company",
+              "trailingPE": 25.03,
+              "forwardPE": 15.95,
+              "enterpriseToEbitda": 14.0,
+              "pegRatio": null,
+              "priceToBook": 16.91
+            }
+          ],
+          "averages": {
+            "trailingPE": 37.6,
+            "forwardPE": 25.24,
+            "enterpriseToEbitda": 11.69,
+            "pegRatio": null,
+            "priceToBook": 14.21
+          }
+        },
+        "Consumo basico": {
+          "companies": [
+            {
+              "ticker": "PG",
+              "name": "Procter & Gamble Company (The)",
+              "trailingPE": 22.54,
+              "forwardPE": 20.75,
+              "enterpriseToEbitda": 15.36,
+              "pegRatio": null,
+              "priceToBook": 6.76
+            },
+            {
+              "ticker": "KO",
+              "name": "Coca-Cola Company (The)",
+              "trailingPE": 25.6,
+              "forwardPE": 22.45,
+              "enterpriseToEbitda": 22.94,
+              "pegRatio": null,
+              "priceToBook": 10.41
+            },
+            {
+              "ticker": "PEP",
+              "name": "Pepsico, Inc.",
+              "trailingPE": 26.29,
+              "forwardPE": 17.27,
+              "enterpriseToEbitda": 14.26,
+              "pegRatio": null,
+              "priceToBook": 10.57
+            },
+            {
+              "ticker": "WMT",
+              "name": "Walmart Inc.",
+              "trailingPE": 46.15,
+              "forwardPE": 38.36,
+              "enterpriseToEbitda": 24.27,
+              "pegRatio": null,
+              "priceToBook": 10.08
+            },
+            {
+              "ticker": "COST",
+              "name": "Costco Wholesale Corporation",
+              "trailingPE": 52.01,
+              "forwardPE": 44.64,
+              "enterpriseToEbitda": 32.28,
+              "pegRatio": null,
+              "priceToBook": 13.85
+            },
+            {
+              "ticker": "CL",
+              "name": "Colgate-Palmolive Company",
+              "trailingPE": 34.33,
+              "forwardPE": 21.77,
+              "enterpriseToEbitda": 16.4,
+              "pegRatio": null,
+              "priceToBook": 1347.76
+            },
+            {
+              "ticker": "MO",
+              "name": "Altria Group, Inc.",
+              "trailingPE": 16.39,
+              "forwardPE": 11.63,
+              "enterpriseToEbitda": 10.66,
+              "pegRatio": null,
+              "priceToBook": -32.28
+            },
+            {
+              "ticker": "PM",
+              "name": "Philip Morris International Inc",
+              "trailingPE": 24.04,
+              "forwardPE": 19.0,
+              "enterpriseToEbitda": 17.03,
+              "pegRatio": null,
+              "priceToBook": -27.22
+            }
+          ],
+          "averages": {
+            "trailingPE": 30.92,
+            "forwardPE": 24.48,
+            "enterpriseToEbitda": 19.15,
+            "pegRatio": null,
+            "priceToBook": 167.49
+          }
+        },
+        "Materiales": {
+          "companies": [
+            {
+              "ticker": "LIN",
+              "name": "Linde plc",
+              "trailingPE": 34.02,
+              "forwardPE": 25.54,
+              "enterpriseToEbitda": 19.11,
+              "pegRatio": null,
+              "priceToBook": 6.03
+            },
+            {
+              "ticker": "APD",
+              "name": "Air Products and Chemicals, Inc",
+              "trailingPE": null,
+              "forwardPE": 20.6,
+              "enterpriseToEbitda": 98.81,
+              "pegRatio": null,
+              "priceToBook": 4.18
+            },
+            {
+              "ticker": "ECL",
+              "name": "Ecolab Inc.",
+              "trailingPE": 37.46,
+              "forwardPE": 28.05,
+              "enterpriseToEbitda": 21.32,
+              "pegRatio": null,
+              "priceToBook": 11.64
+            },
+            {
+              "ticker": "NEM",
+              "name": "Newmont Corporation",
+              "trailingPE": 17.24,
+              "forwardPE": 9.74,
+              "enterpriseToEbitda": 8.49,
+              "pegRatio": null,
+              "priceToBook": 3.54
+            },
+            {
+              "ticker": "FCX",
+              "name": "Freeport-McMoRan, Inc.",
+              "trailingPE": 38.11,
+              "forwardPE": 15.72,
+              "enterpriseToEbitda": 11.19,
+              "pegRatio": null,
+              "priceToBook": 4.4
+            },
+            {
+              "ticker": "NUE",
+              "name": "Nucor Corporation",
+              "trailingPE": 21.64,
+              "forwardPE": 11.86,
+              "enterpriseToEbitda": 10.34,
+              "pegRatio": null,
+              "priceToBook": 1.77
+            },
+            {
+              "ticker": "AA",
+              "name": "Alcoa Corporation",
+              "trailingPE": 15.24,
+              "forwardPE": 11.86,
+              "enterpriseToEbitda": 9.68,
+              "pegRatio": null,
+              "priceToBook": 2.86
+            }
+          ],
+          "averages": {
+            "trailingPE": 27.29,
+            "forwardPE": 17.62,
+            "enterpriseToEbitda": 25.56,
+            "pegRatio": null,
+            "priceToBook": 4.92
+          }
+        },
+        "Utilities": {
+          "companies": [
+            {
+              "ticker": "NEE",
+              "name": "NextEra Energy, Inc.",
+              "trailingPE": 28.13,
+              "forwardPE": 21.2,
+              "enterpriseToEbitda": 21.2,
+              "pegRatio": null,
+              "priceToBook": 3.54
+            },
+            {
+              "ticker": "DUK",
+              "name": "Duke Energy Corporation (Holdin",
+              "trailingPE": 21.15,
+              "forwardPE": 18.65,
+              "enterpriseToEbitda": 12.09,
+              "pegRatio": null,
+              "priceToBook": 2.04
+            },
+            {
+              "ticker": "SO",
+              "name": "Southern Company (The)",
+              "trailingPE": 25.28,
+              "forwardPE": 20.18,
+              "enterpriseToEbitda": 13.37,
+              "pegRatio": null,
+              "priceToBook": 3.08
+            },
+            {
+              "ticker": "AEP",
+              "name": "American Electric Power Company",
+              "trailingPE": 20.17,
+              "forwardPE": 19.56,
+              "enterpriseToEbitda": 13.72,
+              "pegRatio": null,
+              "priceToBook": 2.33
+            },
+            {
+              "ticker": "EXC",
+              "name": "Exelon Corporation",
+              "trailingPE": 18.42,
+              "forwardPE": 16.52,
+              "enterpriseToEbitda": 12.41,
+              "pegRatio": null,
+              "priceToBook": 1.79
+            },
+            {
+              "ticker": "D",
+              "name": "Dominion Energy, Inc.",
+              "trailingPE": 18.28,
+              "forwardPE": 16.6,
+              "enterpriseToEbitda": 13.68,
+              "pegRatio": null,
+              "priceToBook": 1.98
+            },
+            {
+              "ticker": "PCG",
+              "name": "Pacific Gas & Electric Co.",
+              "trailingPE": 15.64,
+              "forwardPE": 10.23,
+              "enterpriseToEbitda": 10.32,
+              "pegRatio": null,
+              "priceToBook": 1.31
+            }
+          ],
+          "averages": {
+            "trailingPE": 21.01,
+            "forwardPE": 17.56,
+            "enterpriseToEbitda": 13.83,
+            "pegRatio": null,
+            "priceToBook": 2.3
+          }
+        }
+      }
+    },
+    "BR": {
+      "name": "Brasil",
+      "etf": {
+        "ticker": "EWZ",
+        "name": "iShares MSCI Brazil ETF",
+        "trailingPE": 11.61,
+        "forwardPE": null,
+        "enterpriseToEbitda": null,
+        "pegRatio": null,
+        "priceToBook": 1.0
+      },
+      "sectors": {
+        "Energia": {
+          "companies": [
+            {
+              "ticker": "PBR",
+              "name": "Petroleo Brasileiro S.A. Petrob",
+              "trailingPE": 6.14,
+              "forwardPE": 6.27,
+              "enterpriseToEbitda": 2.8,
+              "pegRatio": null,
+              "priceToBook": 3.12
+            },
+            {
+              "ticker": "PBR-A",
+              "name": "Petroleo Brasileiro S.A. Petrob",
+              "trailingPE": 5.6,
+              "forwardPE": 7.1,
+              "enterpriseToEbitda": 2.69,
+              "pegRatio": null,
+              "priceToBook": 2.84
+            }
+          ],
+          "averages": {
+            "trailingPE": 5.87,
+            "forwardPE": 6.68,
+            "enterpriseToEbitda": 2.75,
+            "pegRatio": null,
+            "priceToBook": 2.98
+          }
+        },
+        "Finanzas": {
+          "companies": [
+            {
+              "ticker": "ITUB",
+              "name": "Itau Unibanco Banco Holding SA",
+              "trailingPE": 10.65,
+              "forwardPE": 8.62,
+              "enterpriseToEbitda": null,
+              "pegRatio": null,
+              "priceToBook": 2.32
+            },
+            {
+              "ticker": "BBD",
+              "name": "Banco Bradesco Sa",
+              "trailingPE": 8.8,
+              "forwardPE": 6.68,
+              "enterpriseToEbitda": null,
+              "pegRatio": null,
+              "priceToBook": 1.12
+            },
+            {
+              "ticker": "BSBR",
+              "name": "Banco Santander Brasil SA",
+              "trailingPE": 18.9,
+              "forwardPE": 6.21,
+              "enterpriseToEbitda": null,
+              "pegRatio": null,
+              "priceToBook": 0.92
+            }
+          ],
+          "averages": {
+            "trailingPE": 12.78,
+            "forwardPE": 7.17,
+            "enterpriseToEbitda": null,
+            "pegRatio": null,
+            "priceToBook": 1.45
+          }
+        },
+        "Materiales": {
+          "companies": [
+            {
+              "ticker": "VALE",
+              "name": "VALE S.A.",
+              "trailingPE": 27.36,
+              "forwardPE": 7.0,
+              "enterpriseToEbitda": 1.86,
+              "pegRatio": null,
+              "priceToBook": 1.83
+            },
+            {
+              "ticker": "GGB",
+              "name": "Gerdau S.A.",
+              "trailingPE": 25.69,
+              "forwardPE": 6.18,
+              "enterpriseToEbitda": 1.81,
+              "pegRatio": null,
+              "priceToBook": 0.65
+            },
+            {
+              "ticker": "SID",
+              "name": "Companhia Siderurgica Nacional ",
+              "trailingPE": null,
+              "forwardPE": -8.07,
+              "enterpriseToEbitda": null,
+              "pegRatio": null,
+              "priceToBook": 0.57
+            }
+          ],
+          "averages": {
+            "trailingPE": 26.52,
+            "forwardPE": 1.7,
+            "enterpriseToEbitda": 1.83,
+            "pegRatio": null,
+            "priceToBook": 1.02
+          }
+        },
+        "Consumo basico": {
+          "companies": [
+            {
+              "ticker": "ABEV",
+              "name": "Ambev S.A.",
+              "trailingPE": 15.26,
+              "forwardPE": 13.69,
+              "enterpriseToEbitda": 1.07,
+              "pegRatio": null,
+              "priceToBook": 2.7
+            }
+          ],
+          "averages": {
+            "trailingPE": 15.26,
+            "forwardPE": 13.69,
+            "enterpriseToEbitda": 1.07,
+            "pegRatio": null,
+            "priceToBook": 2.7
+          }
+        },
+        "Utilities": {
+          "companies": [
+            {
+              "ticker": "CIG",
+              "name": "Comp En De Mn Cemig",
+              "trailingPE": 5.18,
+              "forwardPE": 15.2,
+              "enterpriseToEbitda": 2.79,
+              "pegRatio": null,
+              "priceToBook": 1.19
+            },
+            {
+              "ticker": "ELP",
+              "name": "ELP",
+              "trailingPE": null,
+              "forwardPE": null,
+              "enterpriseToEbitda": null,
+              "pegRatio": null,
+              "priceToBook": null
+            },
+            {
+              "ticker": "ERJ",
+              "name": "ERJ",
+              "trailingPE": null,
+              "forwardPE": null,
+              "enterpriseToEbitda": null,
+              "pegRatio": null,
+              "priceToBook": null
+            }
+          ],
+          "averages": {
+            "trailingPE": 5.18,
+            "forwardPE": 15.2,
+            "enterpriseToEbitda": 2.79,
+            "pegRatio": null,
+            "priceToBook": 1.19
+          }
+        }
+      }
+    },
+    "CN": {
+      "name": "China",
+      "etf": {
+        "ticker": "MCHI",
+        "name": "iShares MSCI China ETF",
+        "trailingPE": 13.12,
+        "forwardPE": null,
+        "enterpriseToEbitda": null,
+        "pegRatio": null,
+        "priceToBook": null
+      },
+      "sectors": {
+        "Tecnologia": {
+          "companies": [
+            {
+              "ticker": "BABA",
+              "name": "Alibaba Group Holding Limited",
+              "trailingPE": 17.96,
+              "forwardPE": 15.68,
+              "enterpriseToEbitda": 15.88,
+              "pegRatio": null,
+              "priceToBook": 2.12
+            },
+            {
+              "ticker": "JD",
+              "name": "JD.com, Inc.",
+              "trailingPE": 15.15,
+              "forwardPE": 6.77,
+              "enterpriseToEbitda": 3.18,
+              "pegRatio": null,
+              "priceToBook": 1.2
+            },
+            {
+              "ticker": "BIDU",
+              "name": "Baidu, Inc.",
+              "trailingPE": 71.23,
+              "forwardPE": 13.0,
+              "enterpriseToEbitda": 18.42,
+              "pegRatio": null,
+              "priceToBook": 1.07
+            },
+            {
+              "ticker": "NTES",
+              "name": "NetEase, Inc.",
+              "trailingPE": 15.67,
+              "forwardPE": 11.81,
+              "enterpriseToEbitda": 6.04,
+              "pegRatio": null,
+              "priceToBook": 16.42
+            },
+            {
+              "ticker": "VIPS",
+              "name": "Vipshop Holdings Limited",
+              "trailingPE": 7.73,
+              "forwardPE": 5.78,
+              "enterpriseToEbitda": -1.82,
+              "pegRatio": null,
+              "priceToBook": 1.28
+            }
+          ],
+          "averages": {
+            "trailingPE": 25.55,
+            "forwardPE": 10.61,
+            "enterpriseToEbitda": 8.34,
+            "pegRatio": null,
+            "priceToBook": 4.42
+          }
+        },
+        "Consumo discrecional": {
+          "companies": [
+            {
+              "ticker": "NIO",
+              "name": "NIO Inc.",
+              "trailingPE": null,
+              "forwardPE": -133.79,
+              "enterpriseToEbitda": -2.45,
+              "pegRatio": null,
+              "priceToBook": 24.7
+            },
+            {
+              "ticker": "LI",
+              "name": "Li Auto Inc.",
+              "trailingPE": 16.43,
+              "forwardPE": 18.61,
+              "enterpriseToEbitda": -18.06,
+              "pegRatio": null,
+              "priceToBook": 1.75
+            },
+            {
+              "ticker": "XPEV",
+              "name": "XPeng Inc.",
+              "trailingPE": null,
+              "forwardPE": 79.78,
+              "enterpriseToEbitda": -10.21,
+              "pegRatio": null,
+              "priceToBook": 4.4
+            },
+            {
+              "ticker": "PDD",
+              "name": "PDD Holdings Inc.",
+              "trailingPE": 10.34,
+              "forwardPE": 8.34,
+              "enterpriseToEbitda": 1.8,
+              "pegRatio": null,
+              "priceToBook": 2.56
+            }
+          ],
+          "averages": {
+            "trailingPE": 13.38,
+            "forwardPE": -6.76,
+            "enterpriseToEbitda": -7.23,
+            "pegRatio": null,
+            "priceToBook": 8.35
+          }
+        },
+        "Finanzas": {
+          "companies": [
+            {
+              "ticker": "FUTU",
+              "name": "Futu Holdings Limited",
+              "trailingPE": 16.75,
+              "forwardPE": 11.02,
+              "enterpriseToEbitda": null,
+              "pegRatio": null,
+              "priceToBook": 4.07
+            }
+          ],
+          "averages": {
+            "trailingPE": 16.75,
+            "forwardPE": 11.02,
+            "enterpriseToEbitda": null,
+            "pegRatio": null,
+            "priceToBook": 4.07
+          }
+        },
+        "Comunicaciones": {
+          "companies": [
+            {
+              "ticker": "TCOM",
+              "name": "Trip.com Group Limited",
+              "trailingPE": 7.53,
+              "forwardPE": 11.3,
+              "enterpriseToEbitda": -0.67,
+              "pegRatio": null,
+              "priceToBook": 1.39
+            }
+          ],
+          "averages": {
+            "trailingPE": 7.53,
+            "forwardPE": 11.3,
+            "enterpriseToEbitda": -0.67,
+            "pegRatio": null,
+            "priceToBook": 1.39
+          }
+        }
+      }
+    },
+    "DE": {
+      "name": "Alemania",
+      "etf": {
+        "ticker": "EWG",
+        "name": "iShares MSCI Germany Index Fund",
+        "trailingPE": 16.59,
+        "forwardPE": null,
+        "enterpriseToEbitda": null,
+        "pegRatio": null,
+        "priceToBook": 1.26
+      },
+      "sectors": {
+        "Consumo discrecional": {
+          "companies": [
+            {
+              "ticker": "BMWYY",
+              "name": "BMWYY",
+              "trailingPE": null,
+              "forwardPE": null,
+              "enterpriseToEbitda": null,
+              "pegRatio": null,
+              "priceToBook": null
+            },
+            {
+              "ticker": "VWAGY",
+              "name": "Volkswagen AG",
+              "trailingPE": 6.64,
+              "forwardPE": 3.48,
+              "enterpriseToEbitda": 9.08,
+              "pegRatio": null,
+              "priceToBook": 0.03
+            },
+            {
+              "ticker": "DDAIF",
+              "name": "DDAIF",
+              "trailingPE": null,
+              "forwardPE": null,
+              "enterpriseToEbitda": null,
+              "pegRatio": null,
+              "priceToBook": null
+            }
+          ],
+          "averages": {
+            "trailingPE": 6.64,
+            "forwardPE": 3.48,
+            "enterpriseToEbitda": 9.08,
+            "pegRatio": null,
+            "priceToBook": 0.03
+          }
+        },
+        "Industria": {
+          "companies": [
+            {
+              "ticker": "SIEGY",
+              "name": "Siemens AG",
+              "trailingPE": 21.9,
+              "forwardPE": 17.34,
+              "enterpriseToEbitda": 12.22,
+              "pegRatio": null,
+              "priceToBook": 1.32
+            },
+            {
+              "ticker": "DPSGY",
+              "name": "DPSGY",
+              "trailingPE": null,
+              "forwardPE": null,
+              "enterpriseToEbitda": null,
+              "pegRatio": null,
+              "priceToBook": null
+            }
+          ],
+          "averages": {
+            "trailingPE": 21.9,
+            "forwardPE": 17.34,
+            "enterpriseToEbitda": 12.22,
+            "pegRatio": null,
+            "priceToBook": 1.32
+          }
+        },
+        "Salud": {
+          "companies": [
+            {
+              "ticker": "BAYRY",
+              "name": "Bayer A.G.",
+              "trailingPE": null,
+              "forwardPE": 9.54,
+              "enterpriseToEbitda": 4.64,
+              "pegRatio": null,
+              "priceToBook": 0.38
+            },
+            {
+              "ticker": "RHHBY",
+              "name": "Roche Holding Ltd",
+              "trailingPE": 20.04,
+              "forwardPE": 15.25,
+              "enterpriseToEbitda": 2.61,
+              "pegRatio": null,
+              "priceToBook": 0.96
+            }
+          ],
+          "averages": {
+            "trailingPE": 20.04,
+            "forwardPE": 12.39,
+            "enterpriseToEbitda": 3.62,
+            "pegRatio": null,
+            "priceToBook": 0.67
+          }
+        },
+        "Finanzas": {
+          "companies": [
+            {
+              "ticker": "DB",
+              "name": "Deutsche Bank AG",
+              "trailingPE": 8.04,
+              "forwardPE": 5.47,
+              "enterpriseToEbitda": null,
+              "pegRatio": null,
+              "priceToBook": 0.61
+            }
+          ],
+          "averages": {
+            "trailingPE": 8.04,
+            "forwardPE": 5.47,
+            "enterpriseToEbitda": null,
+            "pegRatio": null,
+            "priceToBook": 0.61
+          }
+        },
+        "Quimicos": {
+          "companies": [
+            {
+              "ticker": "BASFY",
+              "name": "BASF SE",
+              "trailingPE": 30.35,
+              "forwardPE": 16.88,
+              "enterpriseToEbitda": 5.38,
+              "pegRatio": null,
+              "priceToBook": 0.32
+            }
+          ],
+          "averages": {
+            "trailingPE": 30.35,
+            "forwardPE": 16.88,
+            "enterpriseToEbitda": 5.38,
+            "pegRatio": null,
+            "priceToBook": 0.32
+          }
+        }
+      }
+    },
+    "GB": {
+      "name": "Reino Unido",
+      "etf": {
+        "ticker": "EWU",
+        "name": "iShares MSCI",
+        "trailingPE": 18.73,
+        "forwardPE": null,
+        "enterpriseToEbitda": null,
+        "pegRatio": null,
+        "priceToBook": 1.4
+      },
+      "sectors": {
+        "Energia": {
+          "companies": [
+            {
+              "ticker": "BP",
+              "name": "BP p.l.c.",
+              "trailingPE": 2145.0,
+              "forwardPE": 14.66,
+              "enterpriseToEbitda": 23.75,
+              "pegRatio": null,
+              "priceToBook": 12.44
+            },
+            {
+              "ticker": "SHEL",
+              "name": "Shell PLC",
+              "trailingPE": 15.08,
+              "forwardPE": 12.35,
+              "enterpriseToEbitda": 11.6,
+              "pegRatio": null,
+              "priceToBook": 2.97
+            }
+          ],
+          "averages": {
+            "trailingPE": 1080.04,
+            "forwardPE": 13.5,
+            "enterpriseToEbitda": 17.68,
+            "pegRatio": null,
+            "priceToBook": 7.71
+          }
+        },
+        "Finanzas": {
+          "companies": [
+            {
+              "ticker": "HSBC",
+              "name": "HSBC Holdings, plc.",
+              "trailingPE": 13.38,
+              "forwardPE": 8.47,
+              "enterpriseToEbitda": null,
+              "pegRatio": null,
+              "priceToBook": 7.75
+            },
+            {
+              "ticker": "BCS",
+              "name": "Barclays PLC",
+              "trailingPE": 9.21,
+              "forwardPE": 5.86,
+              "enterpriseToEbitda": null,
+              "pegRatio": null,
+              "priceToBook": 3.35
+            },
+            {
+              "ticker": "LYG",
+              "name": "Lloyds Banking Group Plc",
+              "trailingPE": 13.81,
+              "forwardPE": 9.6,
+              "enterpriseToEbitda": null,
+              "pegRatio": null,
+              "priceToBook": 5.44
+            },
+            {
+              "ticker": "AZ",
+              "name": "A2Z Cust2Mate Solutions Corp.",
+              "trailingPE": null,
+              "forwardPE": -11.29,
+              "enterpriseToEbitda": -7.92,
+              "pegRatio": null,
+              "priceToBook": 3.19
+            }
+          ],
+          "averages": {
+            "trailingPE": 12.13,
+            "forwardPE": 3.16,
+            "enterpriseToEbitda": -7.92,
+            "pegRatio": null,
+            "priceToBook": 4.93
+          }
+        },
+        "Consumo basico": {
+          "companies": [
+            {
+              "ticker": "DEO",
+              "name": "Diageo plc",
+              "trailingPE": 17.8,
+              "forwardPE": 11.92,
+              "enterpriseToEbitda": 31.72,
+              "pegRatio": null,
+              "priceToBook": 14.73
+            },
+            {
+              "ticker": "BTI",
+              "name": "British American Tobacco  Indus",
+              "trailingPE": 12.83,
+              "forwardPE": 11.44,
+              "enterpriseToEbitda": 13.75,
+              "pegRatio": null,
+              "priceToBook": 2.17
+            }
+          ],
+          "averages": {
+            "trailingPE": 15.32,
+            "forwardPE": 11.68,
+            "enterpriseToEbitda": 22.73,
+            "pegRatio": null,
+            "priceToBook": 8.45
+          }
+        },
+        "Salud": {
+          "companies": [
+            {
+              "ticker": "AZN",
+              "name": "AstraZeneca PLC",
+              "trailingPE": 29.4,
+              "forwardPE": 32.17,
+              "enterpriseToEbitda": 16.69,
+              "pegRatio": null,
+              "priceToBook": 6.12
+            },
+            {
+              "ticker": "GSK",
+              "name": "GSK plc",
+              "trailingPE": 14.45,
+              "forwardPE": 10.47,
+              "enterpriseToEbitda": 20.13,
+              "pegRatio": null,
+              "priceToBook": 9.95
+            }
+          ],
+          "averages": {
+            "trailingPE": 21.92,
+            "forwardPE": 21.32,
+            "enterpriseToEbitda": 18.41,
+            "pegRatio": null,
+            "priceToBook": 8.04
+          }
+        }
+      }
+    },
+    "CA": {
+      "name": "Canada",
+      "etf": {
+        "ticker": "EWC",
+        "name": "iShares MSCI Canada Index Fund",
+        "trailingPE": 19.7,
+        "forwardPE": null,
+        "enterpriseToEbitda": null,
+        "pegRatio": null,
+        "priceToBook": 1.72
+      },
+      "sectors": {
+        "Energia": {
+          "companies": [
+            {
+              "ticker": "ENB",
+              "name": "Enbridge Inc",
+              "trailingPE": 23.01,
+              "forwardPE": 23.48,
+              "enterpriseToEbitda": 13.42,
+              "pegRatio": null,
+              "priceToBook": 2.96
+            },
+            {
+              "ticker": "SU",
+              "name": "Suncor Energy  Inc.",
+              "trailingPE": 17.03,
+              "forwardPE": 17.63,
+              "enterpriseToEbitda": 5.58,
+              "pegRatio": null,
+              "priceToBook": 2.21
+            },
+            {
+              "ticker": "CVE",
+              "name": "Cenovus Energy Inc",
+              "trailingPE": 14.78,
+              "forwardPE": 17.37,
+              "enterpriseToEbitda": 5.82,
+              "pegRatio": null,
+              "priceToBook": 1.92
+            }
+          ],
+          "averages": {
+            "trailingPE": 18.27,
+            "forwardPE": 19.49,
+            "enterpriseToEbitda": 8.27,
+            "pegRatio": null,
+            "priceToBook": 2.36
+          }
+        },
+        "Finanzas": {
+          "companies": [
+            {
+              "ticker": "TD",
+              "name": "Toronto Dominion Bank (The)",
+              "trailingPE": 10.49,
+              "forwardPE": 12.69,
+              "enterpriseToEbitda": null,
+              "pegRatio": null,
+              "priceToBook": 1.8
+            },
+            {
+              "ticker": "RY",
+              "name": "Royal Bank Of Canada",
+              "trailingPE": 15.3,
+              "forwardPE": 12.99,
+              "enterpriseToEbitda": null,
+              "pegRatio": null,
+              "priceToBook": 2.46
+            },
+            {
+              "ticker": "BMO",
+              "name": "Bank Of Montreal",
+              "trailingPE": 15.85,
+              "forwardPE": 11.98,
+              "enterpriseToEbitda": null,
+              "pegRatio": null,
+              "priceToBook": 1.62
+            },
+            {
+              "ticker": "BNS",
+              "name": "Bank Nova Scotia Halifax Pfd 3",
+              "trailingPE": 14.12,
+              "forwardPE": 10.55,
+              "enterpriseToEbitda": null,
+              "pegRatio": null,
+              "priceToBook": 1.36
+            },
+            {
+              "ticker": "CM",
+              "name": "Canadian Imperial Bank of Comme",
+              "trailingPE": 13.83,
+              "forwardPE": 12.15,
+              "enterpriseToEbitda": null,
+              "pegRatio": null,
+              "priceToBook": 1.95
+            }
+          ],
+          "averages": {
+            "trailingPE": 13.92,
+            "forwardPE": 12.07,
+            "enterpriseToEbitda": null,
+            "pegRatio": null,
+            "priceToBook": 1.84
+          }
+        },
+        "Materiales": {
+          "companies": [
+            {
+              "ticker": "ABX",
+              "name": "Abacus Global Management, Inc.",
+              "trailingPE": 198.4,
+              "forwardPE": 9.13,
+              "enterpriseToEbitda": 11.54,
+              "pegRatio": null,
+              "priceToBook": 2.31
+            },
+            {
+              "ticker": "NTR",
+              "name": "Nutrien Ltd.",
+              "trailingPE": 16.69,
+              "forwardPE": 16.03,
+              "enterpriseToEbitda": 9.02,
+              "pegRatio": null,
+              "priceToBook": 1.48
+            }
+          ],
+          "averages": {
+            "trailingPE": 107.55,
+            "forwardPE": 12.58,
+            "enterpriseToEbitda": 10.28,
+            "pegRatio": null,
+            "priceToBook": 1.9
+          }
+        },
+        "Industria": {
+          "companies": [
+            {
+              "ticker": "CNI",
+              "name": "Canadian National Railway Compa",
+              "trailingPE": 19.07,
+              "forwardPE": 16.72,
+              "enterpriseToEbitda": 9.52,
+              "pegRatio": null,
+              "priceToBook": 4.17
+            },
+            {
+              "ticker": "CP",
+              "name": "Canadian Pacific Kansas City Li",
+              "trailingPE": 24.76,
+              "forwardPE": 19.18,
+              "enterpriseToEbitda": 12.07,
+              "pegRatio": null,
+              "priceToBook": 2.21
+            },
+            {
+              "ticker": "WSP",
+              "name": "WSP",
+              "trailingPE": null,
+              "forwardPE": null,
+              "enterpriseToEbitda": null,
+              "pegRatio": null,
+              "priceToBook": null
+            }
+          ],
+          "averages": {
+            "trailingPE": 21.91,
+            "forwardPE": 17.95,
+            "enterpriseToEbitda": 10.79,
+            "pegRatio": null,
+            "priceToBook": 3.19
+          }
+        }
+      }
+    },
+    "JP": {
+      "name": "Japon",
+      "etf": {
+        "ticker": "EWJ",
+        "name": "iShares MSCI Japan Index Fund",
+        "trailingPE": 17.87,
+        "forwardPE": null,
+        "enterpriseToEbitda": null,
+        "pegRatio": null,
+        "priceToBook": 1.26
+      },
+      "sectors": {
+        "Tecnologia": {
+          "companies": [
+            {
+              "ticker": "SONY",
+              "name": "Sony Group Corporation",
+              "trailingPE": 16.65,
+              "forwardPE": 18.19,
+              "enterpriseToEbitda": 0.03,
+              "pegRatio": null,
+              "priceToBook": 2.53
+            },
+            {
+              "ticker": "NTDOY",
+              "name": "Nintendo Co., Ltd.",
+              "trailingPE": 32.32,
+              "forwardPE": 7.55,
+              "enterpriseToEbitda": -6.52,
+              "pegRatio": null,
+              "priceToBook": 1.01
+            },
+            {
+              "ticker": "KYOCY",
+              "name": "Kyocera Corp.",
+              "trailingPE": 78.1,
+              "forwardPE": 26.93,
+              "enterpriseToEbitda": -0.3,
+              "pegRatio": null,
+              "priceToBook": 1.0
+            }
+          ],
+          "averages": {
+            "trailingPE": 42.36,
+            "forwardPE": 17.56,
+            "enterpriseToEbitda": -2.26,
+            "pegRatio": null,
+            "priceToBook": 1.51
+          }
+        },
+        "Consumo discrecional": {
+          "companies": [
+            {
+              "ticker": "TM",
+              "name": "Toyota Motor Corporation",
+              "trailingPE": 11.94,
+              "forwardPE": 13.51,
+              "enterpriseToEbitda": 4.73,
+              "pegRatio": null,
+              "priceToBook": 11.39
+            },
+            {
+              "ticker": "HMC",
+              "name": "Honda Motor Company, Ltd.",
+              "trailingPE": 10.94,
+              "forwardPE": 5.18,
+              "enterpriseToEbitda": 7.77,
+              "pegRatio": null,
+              "priceToBook": 1.28
+            },
+            {
+              "ticker": "NSANY",
+              "name": "Nissan Motor Co., Ltd.",
+              "trailingPE": null,
+              "forwardPE": 5.22,
+              "enterpriseToEbitda": 26.09,
+              "pegRatio": null,
+              "priceToBook": 0.51
+            }
+          ],
+          "averages": {
+            "trailingPE": 11.44,
+            "forwardPE": 7.97,
+            "enterpriseToEbitda": 12.86,
+            "pegRatio": null,
+            "priceToBook": 4.39
+          }
+        },
+        "Finanzas": {
+          "companies": [
+            {
+              "ticker": "MFG",
+              "name": "Mizuho Financial Group, Inc. Sp",
+              "trailingPE": 14.72,
+              "forwardPE": 5.61,
+              "enterpriseToEbitda": null,
+              "pegRatio": null,
+              "priceToBook": 0.28
+            },
+            {
+              "ticker": "SMFG",
+              "name": "Sumitomo Mitsui Financial Group",
+              "trailingPE": 13.83,
+              "forwardPE": 47.56,
+              "enterpriseToEbitda": null,
+              "pegRatio": null,
+              "priceToBook": 0.76
+            },
+            {
+              "ticker": "MTU",
+              "name": "MTU",
+              "trailingPE": null,
+              "forwardPE": null,
+              "enterpriseToEbitda": null,
+              "pegRatio": null,
+              "priceToBook": null
+            }
+          ],
+          "averages": {
+            "trailingPE": 14.28,
+            "forwardPE": 26.59,
+            "enterpriseToEbitda": null,
+            "pegRatio": null,
+            "priceToBook": 0.52
+          }
+        }
+      }
+    }
+  }
+}
