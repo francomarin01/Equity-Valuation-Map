@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-21 12:11",
+  "updated": "2026-03-21 15:55",
   "ratios": {
     "trailingPE": "P/E",
     "forwardPE": "Fwd P/E",
@@ -3735,7 +3735,7 @@
                   "returnOnEquity": 22.54,
                   "debtToEquity": 10.91,
                   "profitMargins": 32.94,
-                  "marketCap": 115.32,
+                  "marketCap": 115.33,
                   "beta": 0.32
                 },
                 {
@@ -3786,7 +3786,7 @@
                 "returnOnEquity": 2.84,
                 "debtToEquity": 11.84,
                 "profitMargins": -26.94,
-                "marketCap": 213.18,
+                "marketCap": 213.19,
                 "beta": 0.69
               }
             },
@@ -4167,7 +4167,7 @@
               "returnOnEquity": 22.54,
               "debtToEquity": 10.91,
               "profitMargins": 32.94,
-              "marketCap": 115.32,
+              "marketCap": 115.33,
               "beta": 0.32
             },
             {
@@ -4236,7 +4236,7 @@
             "returnOnEquity": 303.86,
             "debtToEquity": 100.7,
             "profitMargins": 8.65,
-            "marketCap": 4035.65,
+            "marketCap": 4035.66,
             "beta": 0.53
           }
         },
@@ -4326,12 +4326,12 @@
                   "enterpriseToEbitda": 14.62,
                   "pegRatio": null,
                   "priceToBook": 6.41,
-                  "priceToSalesTrailing12Months": 3.96,
+                  "priceToSalesTrailing12Months": 3.95,
                   "dividendYield": 293.0,
                   "returnOnEquity": 31.56,
                   "debtToEquity": 68.72,
                   "profitMargins": 19.3,
-                  "marketCap": 337.69,
+                  "marketCap": 337.14,
                   "beta": 0.34
                 },
                 {
@@ -4359,12 +4359,12 @@
                 "enterpriseToEbitda": 15.09,
                 "pegRatio": null,
                 "priceToBook": 638.43,
-                "priceToSalesTrailing12Months": 3.66,
+                "priceToSalesTrailing12Months": 3.65,
                 "dividendYield": 271.0,
                 "returnOnEquity": 264.51,
                 "debtToEquity": 1206.14,
                 "profitMargins": 14.88,
-                "marketCap": 405.92,
+                "marketCap": 405.37,
                 "beta": 0.3
               }
             },
@@ -4668,12 +4668,12 @@
               "enterpriseToEbitda": 14.62,
               "pegRatio": null,
               "priceToBook": 6.41,
-              "priceToSalesTrailing12Months": 3.96,
+              "priceToSalesTrailing12Months": 3.95,
               "dividendYield": 293.0,
               "returnOnEquity": 31.56,
               "debtToEquity": 68.72,
               "profitMargins": 19.3,
-              "marketCap": 337.69,
+              "marketCap": 337.14,
               "beta": 0.34
             },
             {
@@ -4850,7 +4850,7 @@
             "returnOnEquity": 65.93,
             "debtToEquity": 338.92,
             "profitMargins": 10.27,
-            "marketCap": 2889.46,
+            "marketCap": 2888.91,
             "beta": 0.44
           }
         },
@@ -7429,7 +7429,7 @@
         "name": "iShares MSCI Brazil ETF",
         "sector": "",
         "industry": "",
-        "trailingPE": 11.14,
+        "trailingPE": 12.11,
         "forwardPE": null,
         "enterpriseToEbitda": null,
         "pegRatio": null,
@@ -9501,7 +9501,7 @@
                   "returnOnEquity": 15.71,
                   "debtToEquity": 7.86,
                   "profitMargins": 18.74,
-                  "marketCap": 1.42,
+                  "marketCap": 1.35,
                   "beta": 0.28
                 }
               ],
@@ -9516,7 +9516,7 @@
                 "returnOnEquity": 15.71,
                 "debtToEquity": 7.86,
                 "profitMargins": 18.74,
-                "marketCap": 1.42,
+                "marketCap": 1.35,
                 "beta": 0.28
               }
             }
@@ -9609,7 +9609,7 @@
               "returnOnEquity": 15.71,
               "debtToEquity": 7.86,
               "profitMargins": 18.74,
-              "marketCap": 1.42,
+              "marketCap": 1.35,
               "beta": 0.28
             }
           ],
@@ -9624,7 +9624,7 @@
             "returnOnEquity": -2.88,
             "debtToEquity": 42.54,
             "profitMargins": 7.95,
-            "marketCap": 22.33,
+            "marketCap": 22.26,
             "beta": 0.47
           }
         },
@@ -10311,7 +10311,7 @@
         "name": "iShares MSCI Germany Index Fund",
         "sector": "",
         "industry": "",
-        "trailingPE": 15.64,
+        "trailingPE": 15.98,
         "forwardPE": null,
         "enterpriseToEbitda": null,
         "pegRatio": null,
@@ -18145,7 +18145,7 @@
         "name": "iShares MSCI Spain ETF",
         "sector": "",
         "industry": "",
-        "trailingPE": 13.24,
+        "trailingPE": 14.09,
         "forwardPE": null,
         "enterpriseToEbitda": null,
         "pegRatio": null,
@@ -18275,36 +18275,36 @@
               "companies": [
                 {
                   "ticker": "TEF",
-                  "name": "Telefonica SA",
-                  "sector": "Communication Services",
+                  "name": "TEF",
+                  "sector": "",
                   "industry": "Telecom Services",
                   "trailingPE": null,
-                  "forwardPE": 15.55,
-                  "enterpriseToEbitda": 6.73,
+                  "forwardPE": null,
+                  "enterpriseToEbitda": null,
                   "pegRatio": null,
-                  "priceToBook": 1.05,
-                  "priceToSalesTrailing12Months": 0.52,
-                  "dividendYield": 9.15,
-                  "returnOnEquity": -2.31,
-                  "debtToEquity": 201.02,
-                  "profitMargins": -5.0,
-                  "marketCap": 21.49,
-                  "beta": 0.28
+                  "priceToBook": null,
+                  "priceToSalesTrailing12Months": null,
+                  "dividendYield": null,
+                  "returnOnEquity": null,
+                  "debtToEquity": null,
+                  "profitMargins": null,
+                  "marketCap": null,
+                  "beta": null
                 }
               ],
               "averages": {
                 "trailingPE": null,
-                "forwardPE": 15.55,
-                "enterpriseToEbitda": 6.73,
+                "forwardPE": null,
+                "enterpriseToEbitda": null,
                 "pegRatio": null,
-                "priceToBook": 1.05,
-                "priceToSalesTrailing12Months": 0.52,
-                "dividendYield": 9.15,
-                "returnOnEquity": -2.31,
-                "debtToEquity": 201.02,
-                "profitMargins": -5.0,
-                "marketCap": 21.49,
-                "beta": 0.28
+                "priceToBook": null,
+                "priceToSalesTrailing12Months": null,
+                "dividendYield": null,
+                "returnOnEquity": null,
+                "debtToEquity": null,
+                "profitMargins": null,
+                "marketCap": null,
+                "beta": null
               }
             },
             "Electronic Gaming & Multimedia": {
@@ -18347,21 +18347,21 @@
           "companies": [
             {
               "ticker": "TEF",
-              "name": "Telefonica SA",
-              "sector": "Communication Services",
+              "name": "TEF",
+              "sector": "",
               "industry": "Telecom Services",
               "trailingPE": null,
-              "forwardPE": 15.55,
-              "enterpriseToEbitda": 6.73,
+              "forwardPE": null,
+              "enterpriseToEbitda": null,
               "pegRatio": null,
-              "priceToBook": 1.05,
-              "priceToSalesTrailing12Months": 0.52,
-              "dividendYield": 9.15,
-              "returnOnEquity": -2.31,
-              "debtToEquity": 201.02,
-              "profitMargins": -5.0,
-              "marketCap": 21.49,
-              "beta": 0.28
+              "priceToBook": null,
+              "priceToSalesTrailing12Months": null,
+              "dividendYield": null,
+              "returnOnEquity": null,
+              "debtToEquity": null,
+              "profitMargins": null,
+              "marketCap": null,
+              "beta": null
             },
             {
               "ticker": "NTDOF",
@@ -18384,17 +18384,17 @@
           ],
           "averages": {
             "trailingPE": 30.26,
-            "forwardPE": 15.55,
-            "enterpriseToEbitda": 0.18,
+            "forwardPE": null,
+            "enterpriseToEbitda": -6.37,
             "pegRatio": null,
-            "priceToBook": 2.38,
-            "priceToSalesTrailing12Months": 0.28,
-            "dividendYield": 107.58,
-            "returnOnEquity": 5.91,
-            "debtToEquity": 201.02,
-            "profitMargins": 6.97,
-            "marketCap": 91.27,
-            "beta": 0.26
+            "priceToBook": 3.7,
+            "priceToSalesTrailing12Months": 0.03,
+            "dividendYield": 206.0,
+            "returnOnEquity": 14.13,
+            "debtToEquity": null,
+            "profitMargins": 18.94,
+            "marketCap": 69.78,
+            "beta": 0.23
           }
         },
         "Utilities": {
@@ -18682,7 +18682,7 @@
         "name": "iShares MSCI Italy ETF",
         "sector": "",
         "industry": "",
-        "trailingPE": 12.13,
+        "trailingPE": 12.1,
         "forwardPE": null,
         "enterpriseToEbitda": null,
         "pegRatio": null,
@@ -19001,7 +19001,7 @@
         "name": "iShares MSCI Netherlands Index ",
         "sector": "",
         "industry": "",
-        "trailingPE": 16.95,
+        "trailingPE": 16.75,
         "forwardPE": null,
         "enterpriseToEbitda": null,
         "pegRatio": null,
@@ -19466,7 +19466,7 @@
               "companies": [
                 {
                   "ticker": "VOLAF",
-                  "name": "Volvo AB",
+                  "name": "VOLVO(AB)",
                   "sector": "Industrials",
                   "industry": "Farm & Heavy Construction Machinery",
                   "trailingPE": 15.83,
@@ -19538,7 +19538,7 @@
             },
             {
               "ticker": "VOLAF",
-              "name": "Volvo AB",
+              "name": "VOLVO(AB)",
               "sector": "Industrials",
               "industry": "Farm & Heavy Construction Machinery",
               "trailingPE": 15.83,
@@ -20316,7 +20316,7 @@
         "name": "iShares MSCI Hong Kong Index Fu",
         "sector": "",
         "industry": "",
-        "trailingPE": 18.38,
+        "trailingPE": 19.0,
         "forwardPE": null,
         "enterpriseToEbitda": null,
         "pegRatio": null,
@@ -20423,7 +20423,7 @@
                   "returnOnEquity": 15.71,
                   "debtToEquity": 7.86,
                   "profitMargins": 18.74,
-                  "marketCap": 1.42,
+                  "marketCap": 1.35,
                   "beta": 0.28
                 }
               ],
@@ -20438,7 +20438,7 @@
                 "returnOnEquity": 15.71,
                 "debtToEquity": 7.86,
                 "profitMargins": 18.74,
-                "marketCap": 1.42,
+                "marketCap": 1.35,
                 "beta": 0.28
               }
             },
@@ -20531,7 +20531,7 @@
               "returnOnEquity": 15.71,
               "debtToEquity": 7.86,
               "profitMargins": 18.74,
-              "marketCap": 1.42,
+              "marketCap": 1.35,
               "beta": 0.28
             },
             {
@@ -20582,7 +20582,7 @@
             "returnOnEquity": 19.81,
             "debtToEquity": 50.66,
             "profitMargins": 31.45,
-            "marketCap": 214.47,
+            "marketCap": 214.4,
             "beta": 0.67
           }
         },
@@ -20743,7 +20743,7 @@
         "name": "iShares MSCI Taiwan ETF",
         "sector": "",
         "industry": "",
-        "trailingPE": 19.58,
+        "trailingPE": 21.19,
         "forwardPE": null,
         "enterpriseToEbitda": null,
         "pegRatio": null,
