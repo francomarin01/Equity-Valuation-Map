@@ -3,7 +3,8 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
+  base: '/Equity-Valuation-Map/',
   optimizeDeps: {
-    include: ['react-simple-maps', 'prop-types']
+    include: ['prop-types']
   }
 })

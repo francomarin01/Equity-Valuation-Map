@@ -179,7 +179,7 @@ export default function App() {
   const [geoData, setGeoData] = useState(null)
 
   useEffect(() => {
-    fetch('/data.json')
+    fetch('./data.json')
       .then(r => r.json())
       .then(setData)
       .catch(e => console.error('Error cargando data.json:', e))

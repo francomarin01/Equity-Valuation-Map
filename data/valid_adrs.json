@@ -1,0 +1,3183 @@
+{
+  "valid": {
+    "US": [
+      {
+        "ticker": "AAPL",
+        "name": "Apple Inc.",
+        "sector": "Technology",
+        "industry": "Consumer Electronics",
+        "marketCap": 3644.94
+      },
+      {
+        "ticker": "MSFT",
+        "name": "Microsoft Corporation",
+        "sector": "Technology",
+        "industry": "Software - Infrastructure",
+        "marketCap": 2838.2
+      },
+      {
+        "ticker": "NVDA",
+        "name": "NVIDIA Corporation",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "marketCap": 4197.47
+      },
+      {
+        "ticker": "GOOGL",
+        "name": "Alphabet Inc.",
+        "sector": "Communication Services",
+        "industry": "Internet Content & Information",
+        "marketCap": 3641.2
+      },
+      {
+        "ticker": "META",
+        "name": "Meta Platforms, Inc.",
+        "sector": "Communication Services",
+        "industry": "Internet Content & Information",
+        "marketCap": 1501.7
+      },
+      {
+        "ticker": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "sector": "Consumer Cyclical",
+        "industry": "Internet Retail",
+        "marketCap": 2204.63
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "marketCap": 328.25
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "marketCap": 219.14
+      },
+      {
+        "ticker": "CRM",
+        "name": "Salesforce, Inc.",
+        "sector": "Technology",
+        "industry": "Software - Application",
+        "marketCap": 183.07
+      },
+      {
+        "ticker": "ORCL",
+        "name": "Oracle Corporation",
+        "sector": "Technology",
+        "industry": "Software - Infrastructure",
+        "marketCap": 430.49
+      },
+      {
+        "ticker": "ADBE",
+        "name": "Adobe Inc.",
+        "sector": "Technology",
+        "industry": "Software - Application",
+        "marketCap": 101.87
+      },
+      {
+        "ticker": "QCOM",
+        "name": "QUALCOMM Incorporated",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "marketCap": 138.74
+      },
+      {
+        "ticker": "TXN",
+        "name": "Texas Instruments Incorporated",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "marketCap": 170.43
+      },
+      {
+        "ticker": "AVGO",
+        "name": "Broadcom Inc.",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "marketCap": 1472.21
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "marketCap": 476.92
+      },
+      {
+        "ticker": "NOW",
+        "name": "ServiceNow, Inc.",
+        "sector": "Technology",
+        "industry": "Software - Application",
+        "marketCap": 116.47
+      },
+      {
+        "ticker": "INTU",
+        "name": "Intuit Inc.",
+        "sector": "Technology",
+        "industry": "Software - Application",
+        "marketCap": 126.77
+      },
+      {
+        "ticker": "SNOW",
+        "name": "Snowflake Inc.",
+        "sector": "Technology",
+        "industry": "Software - Application",
+        "marketCap": 57.5
+      },
+      {
+        "ticker": "PLTR",
+        "name": "Palantir Technologies Inc.",
+        "sector": "Technology",
+        "industry": "Software - Infrastructure",
+        "marketCap": 360.38
+      },
+      {
+        "ticker": "UBER",
+        "name": "Uber Technologies, Inc.",
+        "sector": "Technology",
+        "industry": "Software - Application",
+        "marketCap": 153.53
+      },
+      {
+        "ticker": "DASH",
+        "name": "DoorDash, Inc.",
+        "sector": "Consumer Cyclical",
+        "industry": "Internet Retail",
+        "marketCap": 68.05
+      },
+      {
+        "ticker": "AMAT",
+        "name": "Applied Materials, Inc.",
+        "sector": "Technology",
+        "industry": "Semiconductor Equipment & Materials",
+        "marketCap": 283.37
+      },
+      {
+        "ticker": "KLAC",
+        "name": "KLA Corporation",
+        "sector": "Technology",
+        "industry": "Semiconductor Equipment & Materials",
+        "marketCap": 196.91
+      },
+      {
+        "ticker": "LRCX",
+        "name": "Lam Research Corporation",
+        "sector": "Technology",
+        "industry": "Semiconductor Equipment & Materials",
+        "marketCap": 286.83
+      },
+      {
+        "ticker": "DELL",
+        "name": "Dell Technologies Inc.",
+        "sector": "Technology",
+        "industry": "Computer Hardware",
+        "marketCap": 104.49
+      },
+      {
+        "ticker": "HPQ",
+        "name": "HP Inc.",
+        "sector": "Technology",
+        "industry": "Computer Hardware",
+        "marketCap": 16.77
+      },
+      {
+        "ticker": "WDC",
+        "name": "Western Digital Corporation",
+        "sector": "Technology",
+        "industry": "Computer Hardware",
+        "marketCap": 100.21
+      },
+      {
+        "ticker": "NFLX",
+        "name": "Netflix, Inc.",
+        "sector": "Communication Services",
+        "industry": "Entertainment",
+        "marketCap": 389.49
+      },
+      {
+        "ticker": "SNAP",
+        "name": "Snap Inc.",
+        "sector": "Communication Services",
+        "industry": "Internet Content & Information",
+        "marketCap": 7.57
+      },
+      {
+        "ticker": "PINS",
+        "name": "Pinterest, Inc.",
+        "sector": "Communication Services",
+        "industry": "Internet Content & Information",
+        "marketCap": 12.42
+      },
+      {
+        "ticker": "JPM",
+        "name": "JP Morgan Chase & Co.",
+        "sector": "Financial Services",
+        "industry": "Banks - Diversified",
+        "marketCap": 772.86
+      },
+      {
+        "ticker": "BAC",
+        "name": "Bank of America Corporation",
+        "sector": "Financial Services",
+        "industry": "Banks - Diversified",
+        "marketCap": 344.39
+      },
+      {
+        "ticker": "WFC",
+        "name": "Wells Fargo & Company",
+        "sector": "Financial Services",
+        "industry": "Banks - Diversified",
+        "marketCap": 243.59
+      },
+      {
+        "ticker": "C",
+        "name": "Citigroup, Inc.",
+        "sector": "Financial Services",
+        "industry": "Banks - Diversified",
+        "marketCap": 191.59
+      },
+      {
+        "ticker": "GS",
+        "name": "Goldman Sachs Group, Inc. (The)",
+        "sector": "Financial Services",
+        "industry": "Capital Markets",
+        "marketCap": 244.0
+      },
+      {
+        "ticker": "MS",
+        "name": "Morgan Stanley",
+        "sector": "Financial Services",
+        "industry": "Capital Markets",
+        "marketCap": 256.39
+      },
+      {
+        "ticker": "BLK",
+        "name": "BlackRock, Inc.",
+        "sector": "Financial Services",
+        "industry": "Asset Management",
+        "marketCap": 148.99
+      },
+      {
+        "ticker": "V",
+        "name": "Visa Inc.",
+        "sector": "Financial Services",
+        "industry": "Credit Services",
+        "marketCap": 581.54
+      },
+      {
+        "ticker": "MA",
+        "name": "Mastercard Incorporated",
+        "sector": "Financial Services",
+        "industry": "Credit Services",
+        "marketCap": 442.93
+      },
+      {
+        "ticker": "AXP",
+        "name": "American Express Company",
+        "sector": "Financial Services",
+        "industry": "Credit Services",
+        "marketCap": 203.56
+      },
+      {
+        "ticker": "USB",
+        "name": "U.S. Bancorp",
+        "sector": "Financial Services",
+        "industry": "Banks - Regional",
+        "marketCap": 79.63
+      },
+      {
+        "ticker": "PNC",
+        "name": "PNC Financial Services Group, I",
+        "sector": "Financial Services",
+        "industry": "Banks - Regional",
+        "marketCap": 81.55
+      },
+      {
+        "ticker": "TFC",
+        "name": "Truist Financial Corporation",
+        "sector": "Financial Services",
+        "industry": "Banks - Regional",
+        "marketCap": 56.49
+      },
+      {
+        "ticker": "COF",
+        "name": "Capital One Financial Corporati",
+        "sector": "Financial Services",
+        "industry": "Credit Services",
+        "marketCap": 112.86
+      },
+      {
+        "ticker": "SYF",
+        "name": "Synchrony Financial",
+        "sector": "Financial Services",
+        "industry": "Credit Services",
+        "marketCap": 23.84
+      },
+      {
+        "ticker": "SCHW",
+        "name": "Charles Schwab Corporation (The",
+        "sector": "Financial Services",
+        "industry": "Capital Markets",
+        "marketCap": 168.2
+      },
+      {
+        "ticker": "CB",
+        "name": "Chubb Limited",
+        "sector": "Financial Services",
+        "industry": "Insurance - Property & Casualty",
+        "marketCap": 125.86
+      },
+      {
+        "ticker": "AIG",
+        "name": "American International Group, I",
+        "sector": "Financial Services",
+        "industry": "Insurance - Diversified",
+        "marketCap": 40.14
+      },
+      {
+        "ticker": "MET",
+        "name": "MetLife, Inc.",
+        "sector": "Financial Services",
+        "industry": "Insurance - Life",
+        "marketCap": 45.17
+      },
+      {
+        "ticker": "PRU",
+        "name": "Prudential Financial, Inc.",
+        "sector": "Financial Services",
+        "industry": "Insurance - Life",
+        "marketCap": 32.37
+      },
+      {
+        "ticker": "AFL",
+        "name": "AFLAC Incorporated",
+        "sector": "Financial Services",
+        "industry": "Insurance - Life",
+        "marketCap": 54.85
+      },
+      {
+        "ticker": "ALL",
+        "name": "Allstate Corporation (The)",
+        "sector": "Financial Services",
+        "industry": "Insurance - Property & Casualty",
+        "marketCap": 53.37
+      },
+      {
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "sector": "Healthcare",
+        "industry": "Drug Manufacturers - General",
+        "marketCap": 567.22
+      },
+      {
+        "ticker": "PFE",
+        "name": "Pfizer, Inc.",
+        "sector": "Healthcare",
+        "industry": "Drug Manufacturers - General",
+        "marketCap": 153.41
+      },
+      {
+        "ticker": "MRK",
+        "name": "Merck & Company, Inc.",
+        "sector": "Healthcare",
+        "industry": "Drug Manufacturers - General",
+        "marketCap": 282.3
+      },
+      {
+        "ticker": "ABBV",
+        "name": "AbbVie Inc.",
+        "sector": "Healthcare",
+        "industry": "Drug Manufacturers - General",
+        "marketCap": 362.6
+      },
+      {
+        "ticker": "LLY",
+        "name": "Eli Lilly and Company",
+        "sector": "Healthcare",
+        "industry": "Drug Manufacturers - General",
+        "marketCap": 811.51
+      },
+      {
+        "ticker": "UNH",
+        "name": "UnitedHealth Group Incorporated",
+        "sector": "Healthcare",
+        "industry": "Healthcare Plans",
+        "marketCap": 250.15
+      },
+      {
+        "ticker": "CVS",
+        "name": "CVS Health Corporation",
+        "sector": "Healthcare",
+        "industry": "Healthcare Plans",
+        "marketCap": 90.94
+      },
+      {
+        "ticker": "MDT",
+        "name": "Medtronic plc.",
+        "sector": "Healthcare",
+        "industry": "Medical Devices",
+        "marketCap": 110.62
+      },
+      {
+        "ticker": "BMY",
+        "name": "Bristol-Myers Squibb Company",
+        "sector": "Healthcare",
+        "industry": "Drug Manufacturers - General",
+        "marketCap": 117.06
+      },
+      {
+        "ticker": "AMGN",
+        "name": "Amgen Inc.",
+        "sector": "Healthcare",
+        "industry": "Drug Manufacturers - General",
+        "marketCap": 187.49
+      },
+      {
+        "ticker": "GILD",
+        "name": "Gilead Sciences, Inc.",
+        "sector": "Healthcare",
+        "industry": "Drug Manufacturers - General",
+        "marketCap": 170.34
+      },
+      {
+        "ticker": "BIIB",
+        "name": "Biogen Inc.",
+        "sector": "Healthcare",
+        "industry": "Drug Manufacturers - General",
+        "marketCap": 26.63
+      },
+      {
+        "ticker": "VRTX",
+        "name": "Vertex Pharmaceuticals Incorpor",
+        "sector": "Healthcare",
+        "industry": "Biotechnology",
+        "marketCap": 115.32
+      },
+      {
+        "ticker": "REGN",
+        "name": "Regeneron Pharmaceuticals, Inc.",
+        "sector": "Healthcare",
+        "industry": "Biotechnology",
+        "marketCap": 77.48
+      },
+      {
+        "ticker": "MRNA",
+        "name": "Moderna, Inc.",
+        "sector": "Healthcare",
+        "industry": "Biotechnology",
+        "marketCap": 20.38
+      },
+      {
+        "ticker": "ABT",
+        "name": "Abbott Laboratories",
+        "sector": "Healthcare",
+        "industry": "Medical Devices",
+        "marketCap": 183.26
+      },
+      {
+        "ticker": "SYK",
+        "name": "Stryker Corporation",
+        "sector": "Healthcare",
+        "industry": "Medical Devices",
+        "marketCap": 128.46
+      },
+      {
+        "ticker": "BSX",
+        "name": "Boston Scientific Corporation",
+        "sector": "Healthcare",
+        "industry": "Medical Devices",
+        "marketCap": 103.1
+      },
+      {
+        "ticker": "ISRG",
+        "name": "Intuitive Surgical, Inc.",
+        "sector": "Healthcare",
+        "industry": "Medical Instruments & Supplies",
+        "marketCap": 169.76
+      },
+      {
+        "ticker": "CI",
+        "name": "The Cigna Group",
+        "sector": "Healthcare",
+        "industry": "Healthcare Plans",
+        "marketCap": 70.21
+      },
+      {
+        "ticker": "HUM",
+        "name": "Humana Inc.",
+        "sector": "Healthcare",
+        "industry": "Healthcare Plans",
+        "marketCap": 20.49
+      },
+      {
+        "ticker": "CNC",
+        "name": "Centene Corporation",
+        "sector": "Healthcare",
+        "industry": "Healthcare Plans",
+        "marketCap": 16.92
+      },
+      {
+        "ticker": "TSLA",
+        "name": "Tesla, Inc.",
+        "sector": "Consumer Cyclical",
+        "industry": "Auto Manufacturers",
+        "marketCap": 1380.74
+      },
+      {
+        "ticker": "NKE",
+        "name": "Nike, Inc.",
+        "sector": "Consumer Cyclical",
+        "industry": "Footwear & Accessories",
+        "marketCap": 77.53
+      },
+      {
+        "ticker": "MCD",
+        "name": "McDonald's Corporation",
+        "sector": "Consumer Cyclical",
+        "industry": "Restaurants",
+        "marketCap": 220.4
+      },
+      {
+        "ticker": "SBUX",
+        "name": "Starbucks Corporation",
+        "sector": "Consumer Cyclical",
+        "industry": "Restaurants",
+        "marketCap": 105.44
+      },
+      {
+        "ticker": "HD",
+        "name": "Home Depot, Inc. (The)",
+        "sector": "Consumer Cyclical",
+        "industry": "Home Improvement Retail",
+        "marketCap": 319.31
+      },
+      {
+        "ticker": "TGT",
+        "name": "Target Corporation",
+        "sector": "Consumer Defensive",
+        "industry": "Discount Stores",
+        "marketCap": 51.29
+      },
+      {
+        "ticker": "LOW",
+        "name": "Lowe's Companies, Inc.",
+        "sector": "Consumer Cyclical",
+        "industry": "Home Improvement Retail",
+        "marketCap": 126.01
+      },
+      {
+        "ticker": "BKNG",
+        "name": "Booking Holdings Inc. Common St",
+        "sector": "Consumer Cyclical",
+        "industry": "Travel Services",
+        "marketCap": 139.38
+      },
+      {
+        "ticker": "CMG",
+        "name": "Chipotle Mexican Grill, Inc.",
+        "sector": "Consumer Cyclical",
+        "industry": "Restaurants",
+        "marketCap": 44.12
+      },
+      {
+        "ticker": "GM",
+        "name": "General Motors Company",
+        "sector": "Consumer Cyclical",
+        "industry": "Auto Manufacturers",
+        "marketCap": 67.92
+      },
+      {
+        "ticker": "F",
+        "name": "Ford Motor Company",
+        "sector": "Consumer Cyclical",
+        "industry": "Auto Manufacturers",
+        "marketCap": 45.96
+      },
+      {
+        "ticker": "RIVN",
+        "name": "Rivian Automotive, Inc.",
+        "sector": "Consumer Cyclical",
+        "industry": "Auto Manufacturers",
+        "marketCap": 18.5
+      },
+      {
+        "ticker": "COST",
+        "name": "Costco Wholesale Corporation",
+        "sector": "Consumer Defensive",
+        "industry": "Discount Stores",
+        "marketCap": 431.59
+      },
+      {
+        "ticker": "TJX",
+        "name": "TJX Companies, Inc. (The)",
+        "sector": "Consumer Cyclical",
+        "industry": "Apparel Retail",
+        "marketCap": 172.48
+      },
+      {
+        "ticker": "ROST",
+        "name": "Ross Stores, Inc.",
+        "sector": "Consumer Cyclical",
+        "industry": "Apparel Retail",
+        "marketCap": 68.68
+      },
+      {
+        "ticker": "YUM",
+        "name": "Yum! Brands, Inc.",
+        "sector": "Consumer Cyclical",
+        "industry": "Restaurants",
+        "marketCap": 43.43
+      },
+      {
+        "ticker": "DPZ",
+        "name": "Domino's Pizza Inc",
+        "sector": "Consumer Cyclical",
+        "industry": "Restaurants",
+        "marketCap": 12.56
+      },
+      {
+        "ticker": "ABNB",
+        "name": "Airbnb, Inc.",
+        "sector": "Consumer Cyclical",
+        "industry": "Travel Services",
+        "marketCap": 77.05
+      },
+      {
+        "ticker": "MAR",
+        "name": "Marriott International",
+        "sector": "Consumer Cyclical",
+        "industry": "Lodging",
+        "marketCap": 84.73
+      },
+      {
+        "ticker": "HLT",
+        "name": "Hilton Worldwide Holdings Inc.",
+        "sector": "Consumer Cyclical",
+        "industry": "Lodging",
+        "marketCap": 68.01
+      },
+      {
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corporation",
+        "sector": "Energy",
+        "industry": "Oil & Gas Integrated",
+        "marketCap": 665.31
+      },
+      {
+        "ticker": "CVX",
+        "name": "Chevron Corporation",
+        "sector": "Energy",
+        "industry": "Oil & Gas Integrated",
+        "marketCap": 403.33
+      },
+      {
+        "ticker": "COP",
+        "name": "ConocoPhillips",
+        "sector": "Energy",
+        "industry": "Oil & Gas E&P",
+        "marketCap": 155.14
+      },
+      {
+        "ticker": "SLB",
+        "name": "SLB Limited",
+        "sector": "Energy",
+        "industry": "Oil & Gas Equipment & Services",
+        "marketCap": 70.0
+      },
+      {
+        "ticker": "EOG",
+        "name": "EOG Resources, Inc.",
+        "sector": "Energy",
+        "industry": "Oil & Gas E&P",
+        "marketCap": 75.27
+      },
+      {
+        "ticker": "MPC",
+        "name": "Marathon Petroleum Corporation",
+        "sector": "Energy",
+        "industry": "Oil & Gas Refining & Marketing",
+        "marketCap": 68.54
+      },
+      {
+        "ticker": "VLO",
+        "name": "Valero Energy Corporation",
+        "sector": "Energy",
+        "industry": "Oil & Gas Refining & Marketing",
+        "marketCap": 73.16
+      },
+      {
+        "ticker": "PSX",
+        "name": "Phillips 66",
+        "sector": "Energy",
+        "industry": "Oil & Gas Refining & Marketing",
+        "marketCap": 70.32
+      },
+      {
+        "ticker": "HAL",
+        "name": "Halliburton Company",
+        "sector": "Energy",
+        "industry": "Oil & Gas Equipment & Services",
+        "marketCap": 30.74
+      },
+      {
+        "ticker": "BKR",
+        "name": "Baker Hughes Company",
+        "sector": "Energy",
+        "industry": "Oil & Gas Equipment & Services",
+        "marketCap": 59.64
+      },
+      {
+        "ticker": "DIS",
+        "name": "Walt Disney Company (The)",
+        "sector": "Communication Services",
+        "industry": "Entertainment",
+        "marketCap": 176.47
+      },
+      {
+        "ticker": "CMCSA",
+        "name": "Comcast Corporation",
+        "sector": "Communication Services",
+        "industry": "Telecom Services",
+        "marketCap": 105.75
+      },
+      {
+        "ticker": "T",
+        "name": "AT&T Inc.",
+        "sector": "Communication Services",
+        "industry": "Telecom Services",
+        "marketCap": 200.7
+      },
+      {
+        "ticker": "VZ",
+        "name": "Verizon Communications Inc.",
+        "sector": "Communication Services",
+        "industry": "Telecom Services",
+        "marketCap": 210.8
+      },
+      {
+        "ticker": "TMUS",
+        "name": "T-Mobile US, Inc.",
+        "sector": "Communication Services",
+        "industry": "Telecom Services",
+        "marketCap": 233.18
+      },
+      {
+        "ticker": "WBD",
+        "name": "Warner Bros. Discovery, Inc. - ",
+        "sector": "Communication Services",
+        "industry": "Entertainment",
+        "marketCap": 68.03
+      },
+      {
+        "ticker": "SPOT",
+        "name": "Spotify Technology S.A.",
+        "sector": "Communication Services",
+        "industry": "Internet Content & Information",
+        "marketCap": 97.7
+      },
+      {
+        "ticker": "BA",
+        "name": "Boeing Company (The)",
+        "sector": "Industrials",
+        "industry": "Aerospace & Defense",
+        "marketCap": 153.33
+      },
+      {
+        "ticker": "CAT",
+        "name": "Caterpillar, Inc.",
+        "sector": "Industrials",
+        "industry": "Farm & Heavy Construction Machinery",
+        "marketCap": 318.64
+      },
+      {
+        "ticker": "GE",
+        "name": "GE Aerospace",
+        "sector": "Industrials",
+        "industry": "Aerospace & Defense",
+        "marketCap": 302.51
+      },
+      {
+        "ticker": "HON",
+        "name": "Honeywell International Inc.",
+        "sector": "Industrials",
+        "industry": "Conglomerates",
+        "marketCap": 140.8
+      },
+      {
+        "ticker": "UPS",
+        "name": "United Parcel Service, Inc.",
+        "sector": "Industrials",
+        "industry": "Integrated Freight & Logistics",
+        "marketCap": 81.39
+      },
+      {
+        "ticker": "RTX",
+        "name": "RTX Corporation",
+        "sector": "Industrials",
+        "industry": "Aerospace & Defense",
+        "marketCap": 266.72
+      },
+      {
+        "ticker": "LMT",
+        "name": "Lockheed Martin Corporation",
+        "sector": "Industrials",
+        "industry": "Aerospace & Defense",
+        "marketCap": 145.19
+      },
+      {
+        "ticker": "DE",
+        "name": "Deere & Company",
+        "sector": "Industrials",
+        "industry": "Farm & Heavy Construction Machinery",
+        "marketCap": 151.19
+      },
+      {
+        "ticker": "MMM",
+        "name": "3M Company",
+        "sector": "Industrials",
+        "industry": "Conglomerates",
+        "marketCap": 74.37
+      },
+      {
+        "ticker": "NOC",
+        "name": "Northrop Grumman Corporation",
+        "sector": "Industrials",
+        "industry": "Aerospace & Defense",
+        "marketCap": 100.9
+      },
+      {
+        "ticker": "GD",
+        "name": "General Dynamics Corporation",
+        "sector": "Industrials",
+        "industry": "Aerospace & Defense",
+        "marketCap": 93.5
+      },
+      {
+        "ticker": "FDX",
+        "name": "FedEx Corporation",
+        "sector": "Industrials",
+        "industry": "Integrated Freight & Logistics",
+        "marketCap": 84.67
+      },
+      {
+        "ticker": "CSX",
+        "name": "CSX Corporation",
+        "sector": "Industrials",
+        "industry": "Railroads",
+        "marketCap": 70.98
+      },
+      {
+        "ticker": "UNP",
+        "name": "Union Pacific Corporation",
+        "sector": "Industrials",
+        "industry": "Railroads",
+        "marketCap": 139.4
+      },
+      {
+        "ticker": "DAL",
+        "name": "Delta Air Lines, Inc.",
+        "sector": "Industrials",
+        "industry": "Airlines",
+        "marketCap": 41.43
+      },
+      {
+        "ticker": "UAL",
+        "name": "United Airlines Holdings, Inc.",
+        "sector": "Industrials",
+        "industry": "Airlines",
+        "marketCap": 29.12
+      },
+      {
+        "ticker": "ETN",
+        "name": "Eaton Corporation, PLC",
+        "sector": "Industrials",
+        "industry": "Specialty Industrial Machinery",
+        "marketCap": 138.58
+      },
+      {
+        "ticker": "EMR",
+        "name": "Emerson Electric Company",
+        "sector": "Industrials",
+        "industry": "Specialty Industrial Machinery",
+        "marketCap": 72.06
+      },
+      {
+        "ticker": "ROK",
+        "name": "Rockwell Automation, Inc.",
+        "sector": "Industrials",
+        "industry": "Specialty Industrial Machinery",
+        "marketCap": 39.93
+      },
+      {
+        "ticker": "ITW",
+        "name": "Illinois Tool Works Inc.",
+        "sector": "Industrials",
+        "industry": "Specialty Industrial Machinery",
+        "marketCap": 74.26
+      },
+      {
+        "ticker": "PG",
+        "name": "Procter & Gamble Company (The)",
+        "sector": "Consumer Defensive",
+        "industry": "Household & Personal Products",
+        "marketCap": 337.69
+      },
+      {
+        "ticker": "KO",
+        "name": "Coca-Cola Company (The)",
+        "sector": "Consumer Defensive",
+        "industry": "Beverages - Non-Alcoholic",
+        "marketCap": 321.74
+      },
+      {
+        "ticker": "PEP",
+        "name": "Pepsico, Inc.",
+        "sector": "Consumer Defensive",
+        "industry": "Beverages - Non-Alcoholic",
+        "marketCap": 205.16
+      },
+      {
+        "ticker": "WMT",
+        "name": "Walmart Inc.",
+        "sector": "Consumer Defensive",
+        "industry": "Discount Stores",
+        "marketCap": 948.88
+      },
+      {
+        "ticker": "MDLZ",
+        "name": "Mondelez International, Inc.",
+        "sector": "Consumer Defensive",
+        "industry": "Confectioners",
+        "marketCap": 72.53
+      },
+      {
+        "ticker": "KHC",
+        "name": "The Kraft Heinz Company",
+        "sector": "Consumer Defensive",
+        "industry": "Packaged Foods",
+        "marketCap": 25.53
+      },
+      {
+        "ticker": "GIS",
+        "name": "General Mills, Inc.",
+        "sector": "Consumer Defensive",
+        "industry": "Packaged Foods",
+        "marketCap": 19.75
+      },
+      {
+        "ticker": "CL",
+        "name": "Colgate-Palmolive Company",
+        "sector": "Consumer Defensive",
+        "industry": "Household & Personal Products",
+        "marketCap": 68.23
+      },
+      {
+        "ticker": "MO",
+        "name": "Altria Group, Inc.",
+        "sector": "Consumer Defensive",
+        "industry": "Tobacco",
+        "marketCap": 108.22
+      },
+      {
+        "ticker": "PM",
+        "name": "Philip Morris International Inc",
+        "sector": "Consumer Defensive",
+        "industry": "Tobacco",
+        "marketCap": 253.91
+      },
+      {
+        "ticker": "KR",
+        "name": "Kroger Company (The)",
+        "sector": "Consumer Defensive",
+        "industry": "Grocery Stores",
+        "marketCap": 44.94
+      },
+      {
+        "ticker": "LIN",
+        "name": "Linde plc",
+        "sector": "Basic Materials",
+        "industry": "Specialty Chemicals",
+        "marketCap": 226.21
+      },
+      {
+        "ticker": "APD",
+        "name": "Air Products and Chemicals, Inc",
+        "sector": "Basic Materials",
+        "industry": "Specialty Chemicals",
+        "marketCap": 62.57
+      },
+      {
+        "ticker": "ECL",
+        "name": "Ecolab Inc.",
+        "sector": "Basic Materials",
+        "industry": "Specialty Chemicals",
+        "marketCap": 72.64
+      },
+      {
+        "ticker": "NEM",
+        "name": "Newmont Corporation",
+        "sector": "Basic Materials",
+        "industry": "Gold",
+        "marketCap": 104.54
+      },
+      {
+        "ticker": "FCX",
+        "name": "Freeport-McMoRan, Inc.",
+        "sector": "Basic Materials",
+        "industry": "Copper",
+        "marketCap": 74.86
+      },
+      {
+        "ticker": "AA",
+        "name": "Alcoa Corporation",
+        "sector": "Basic Materials",
+        "industry": "Aluminum",
+        "marketCap": 14.89
+      },
+      {
+        "ticker": "NUE",
+        "name": "Nucor Corporation",
+        "sector": "Basic Materials",
+        "industry": "Steel",
+        "marketCap": 36.29
+      },
+      {
+        "ticker": "DD",
+        "name": "DuPont de Nemours, Inc.",
+        "sector": "Basic Materials",
+        "industry": "Specialty Chemicals",
+        "marketCap": 17.78
+      },
+      {
+        "ticker": "DOW",
+        "name": "Dow Inc.",
+        "sector": "Basic Materials",
+        "industry": "Chemicals",
+        "marketCap": 26.37
+      },
+      {
+        "ticker": "LYB",
+        "name": "LyondellBasell Industries NV",
+        "sector": "Basic Materials",
+        "industry": "Specialty Chemicals",
+        "marketCap": 23.62
+      },
+      {
+        "ticker": "VMC",
+        "name": "Vulcan Materials Company (Holdi",
+        "sector": "Basic Materials",
+        "industry": "Building Materials",
+        "marketCap": 34.14
+      },
+      {
+        "ticker": "AMT",
+        "name": "American Tower Corporation (REI",
+        "sector": "Real Estate",
+        "industry": "REIT - Specialty",
+        "marketCap": 82.76
+      },
+      {
+        "ticker": "PLD",
+        "name": "Prologis, Inc.",
+        "sector": "Real Estate",
+        "industry": "REIT - Industrial",
+        "marketCap": 118.99
+      },
+      {
+        "ticker": "CCI",
+        "name": "Crown Castle Inc.",
+        "sector": "Real Estate",
+        "industry": "REIT - Specialty",
+        "marketCap": 35.91
+      },
+      {
+        "ticker": "EQIX",
+        "name": "Equinix, Inc.",
+        "sector": "Real Estate",
+        "industry": "REIT - Specialty",
+        "marketCap": 94.24
+      },
+      {
+        "ticker": "SPG",
+        "name": "Simon Property Group, Inc.",
+        "sector": "Real Estate",
+        "industry": "REIT - Retail",
+        "marketCap": 59.96
+      },
+      {
+        "ticker": "O",
+        "name": "Realty Income Corporation",
+        "sector": "Real Estate",
+        "industry": "REIT - Retail",
+        "marketCap": 57.04
+      },
+      {
+        "ticker": "DLR",
+        "name": "Digital Realty Trust, Inc.",
+        "sector": "Real Estate",
+        "industry": "REIT - Specialty",
+        "marketCap": 60.62
+      },
+      {
+        "ticker": "NEE",
+        "name": "NextEra Energy, Inc.",
+        "sector": "Utilities",
+        "industry": "Utilities - Regulated Electric",
+        "marketCap": 186.48
+      },
+      {
+        "ticker": "DUK",
+        "name": "Duke Energy Corporation (Holdin",
+        "sector": "Utilities",
+        "industry": "Utilities - Regulated Electric",
+        "marketCap": 98.62
+      },
+      {
+        "ticker": "SO",
+        "name": "Southern Company (The)",
+        "sector": "Utilities",
+        "industry": "Utilities - Regulated Electric",
+        "marketCap": 104.54
+      },
+      {
+        "ticker": "AEP",
+        "name": "American Electric Power Company",
+        "sector": "Utilities",
+        "industry": "Utilities - Regulated Electric",
+        "marketCap": 67.96
+      },
+      {
+        "ticker": "EXC",
+        "name": "Exelon Corporation",
+        "sector": "Utilities",
+        "industry": "Utilities - Regulated Electric",
+        "marketCap": 47.52
+      },
+      {
+        "ticker": "D",
+        "name": "Dominion Energy, Inc.",
+        "sector": "Utilities",
+        "industry": "Utilities - Regulated Electric",
+        "marketCap": 52.18
+      },
+      {
+        "ticker": "PCG",
+        "name": "Pacific Gas & Electric Co.",
+        "sector": "Utilities",
+        "industry": "Utilities - Regulated Electric",
+        "marketCap": 38.07
+      },
+      {
+        "ticker": "SRE",
+        "name": "DBA Sempra",
+        "sector": "Utilities",
+        "industry": "Utilities - Diversified",
+        "marketCap": 59.92
+      },
+      {
+        "ticker": "WEC",
+        "name": "WEC Energy Group, Inc.",
+        "sector": "Utilities",
+        "industry": "Utilities - Regulated Electric",
+        "marketCap": 36.52
+      }
+    ],
+    "BR": [
+      {
+        "ticker": "PBR",
+        "name": "Petroleo Brasileiro S.A. Petrob",
+        "sector": "Energy",
+        "industry": "Oil & Gas Integrated",
+        "marketCap": 121.15
+      },
+      {
+        "ticker": "PBR-A",
+        "name": "Petroleo Brasileiro S.A. Petrob",
+        "sector": "Energy",
+        "industry": "Oil & Gas Integrated",
+        "marketCap": 111.45
+      },
+      {
+        "ticker": "ITUB",
+        "name": "Itau Unibanco Banco Holding SA",
+        "sector": "Financial Services",
+        "industry": "Banks - Regional",
+        "marketCap": 86.41
+      },
+      {
+        "ticker": "BBD",
+        "name": "Banco Bradesco Sa",
+        "sector": "Financial Services",
+        "industry": "Banks - Regional",
+        "marketCap": 36.05
+      },
+      {
+        "ticker": "BSBR",
+        "name": "Banco Santander Brasil SA",
+        "sector": "Financial Services",
+        "industry": "Banks - Regional",
+        "marketCap": 41.49
+      },
+      {
+        "ticker": "VALE",
+        "name": "VALE S.A.",
+        "sector": "Basic Materials",
+        "industry": "Other Industrial Metals & Mining",
+        "marketCap": 60.7
+      },
+      {
+        "ticker": "GGB",
+        "name": "Gerdau S.A.",
+        "sector": "Basic Materials",
+        "industry": "Steel",
+        "marketCap": 6.44
+      },
+      {
+        "ticker": "SID",
+        "name": "Companhia Siderurgica Nacional ",
+        "sector": "Basic Materials",
+        "industry": "Steel",
+        "marketCap": 1.52
+      },
+      {
+        "ticker": "ABEV",
+        "name": "Ambev S.A.",
+        "sector": "Consumer Defensive",
+        "industry": "Beverages - Brewers",
+        "marketCap": 42.32
+      },
+      {
+        "ticker": "CIG",
+        "name": "Comp En De Mn Cemig",
+        "sector": "Utilities",
+        "industry": "Utilities - Diversified",
+        "marketCap": 7.15
+      },
+      {
+        "ticker": "UGP",
+        "name": "Ultrapar Participacoes S.A. (Ne",
+        "sector": "Energy",
+        "industry": "Oil & Gas Refining & Marketing",
+        "marketCap": 5.25
+      },
+      {
+        "ticker": "SBS",
+        "name": "Companhia de saneamento Basico ",
+        "sector": "Utilities",
+        "industry": "Utilities - Regulated Water",
+        "marketCap": 20.36
+      },
+      {
+        "ticker": "BAK",
+        "name": "Braskem SA",
+        "sector": "Basic Materials",
+        "industry": "Chemicals",
+        "marketCap": 1.55
+      },
+      {
+        "ticker": "TIMB",
+        "name": "TIM S.A.",
+        "sector": "Communication Services",
+        "industry": "Telecom Services",
+        "marketCap": 11.76
+      },
+      {
+        "ticker": "PAGS",
+        "name": "PagSeguro Digital Ltd.",
+        "sector": "Technology",
+        "industry": "Software - Infrastructure",
+        "marketCap": 2.62
+      },
+      {
+        "ticker": "STNE",
+        "name": "StoneCo Ltd.",
+        "sector": "Technology",
+        "industry": "Software - Infrastructure",
+        "marketCap": 3.5
+      },
+      {
+        "ticker": "XP",
+        "name": "XP Inc.",
+        "sector": "Financial Services",
+        "industry": "Capital Markets",
+        "marketCap": 9.41
+      },
+      {
+        "ticker": "GFI",
+        "name": "Gold Fields Limited",
+        "sector": "Basic Materials",
+        "industry": "Gold",
+        "marketCap": 34.97
+      },
+      {
+        "ticker": "SUZ",
+        "name": "Suzano S.A.",
+        "sector": "Basic Materials",
+        "industry": "Paper & Paper Products",
+        "marketCap": 11.63
+      }
+    ],
+    "CN": [
+      {
+        "ticker": "BABA",
+        "name": "Alibaba Group Holding Limited",
+        "sector": "Consumer Cyclical",
+        "industry": "Internet Retail",
+        "marketCap": 292.24
+      },
+      {
+        "ticker": "JD",
+        "name": "JD.com, Inc.",
+        "sector": "Consumer Cyclical",
+        "industry": "Internet Retail",
+        "marketCap": 39.45
+      },
+      {
+        "ticker": "BIDU",
+        "name": "Baidu, Inc.",
+        "sector": "Communication Services",
+        "industry": "Internet Content & Information",
+        "marketCap": 38.88
+      },
+      {
+        "ticker": "NTES",
+        "name": "NetEase, Inc.",
+        "sector": "Communication Services",
+        "industry": "Electronic Gaming & Multimedia",
+        "marketCap": 73.18
+      },
+      {
+        "ticker": "VIPS",
+        "name": "Vipshop Holdings Limited",
+        "sector": "Consumer Cyclical",
+        "industry": "Internet Retail",
+        "marketCap": 7.59
+      },
+      {
+        "ticker": "NIO",
+        "name": "NIO Inc.",
+        "sector": "Consumer Cyclical",
+        "industry": "Auto Manufacturers",
+        "marketCap": 13.73
+      },
+      {
+        "ticker": "LI",
+        "name": "Li Auto Inc.",
+        "sector": "Consumer Cyclical",
+        "industry": "Auto Manufacturers",
+        "marketCap": 17.11
+      },
+      {
+        "ticker": "XPEV",
+        "name": "XPeng Inc.",
+        "sector": "Consumer Cyclical",
+        "industry": "Auto Manufacturers",
+        "marketCap": 17.05
+      },
+      {
+        "ticker": "PDD",
+        "name": "PDD Holdings Inc.",
+        "sector": "Consumer Cyclical",
+        "industry": "Internet Retail",
+        "marketCap": 136.56
+      },
+      {
+        "ticker": "FUTU",
+        "name": "Futu Holdings Limited",
+        "sector": "Financial Services",
+        "industry": "Capital Markets",
+        "marketCap": 18.8
+      },
+      {
+        "ticker": "TCOM",
+        "name": "Trip.com Group Limited",
+        "sector": "Consumer Cyclical",
+        "industry": "Travel Services",
+        "marketCap": 33.37
+      },
+      {
+        "ticker": "BILI",
+        "name": "Bilibili Inc.",
+        "sector": "Communication Services",
+        "industry": "Internet Content & Information",
+        "marketCap": 9.81
+      },
+      {
+        "ticker": "IQ",
+        "name": "iQIYI, Inc.",
+        "sector": "Communication Services",
+        "industry": "Entertainment",
+        "marketCap": 1.19
+      },
+      {
+        "ticker": "TME",
+        "name": "Tencent Music Entertainment Gro",
+        "sector": "Communication Services",
+        "industry": "Internet Content & Information",
+        "marketCap": 16.99
+      },
+      {
+        "ticker": "YUMC",
+        "name": "Yum China Holdings, Inc.",
+        "sector": "Consumer Cyclical",
+        "industry": "Restaurants",
+        "marketCap": 18.21
+      },
+      {
+        "ticker": "ZTO",
+        "name": "ZTO Express (Cayman) Inc.",
+        "sector": "Industrials",
+        "industry": "Integrated Freight & Logistics",
+        "marketCap": 18.63
+      },
+      {
+        "ticker": "LAUR",
+        "name": "Laureate Education, Inc.",
+        "sector": "Consumer Defensive",
+        "industry": "Education & Training Services",
+        "marketCap": 4.75
+      },
+      {
+        "ticker": "NOAH",
+        "name": "Noah Holdings Limited",
+        "sector": "Financial Services",
+        "industry": "Asset Management",
+        "marketCap": 0.79
+      },
+      {
+        "ticker": "CANG",
+        "name": "Cango Inc.",
+        "sector": "Financial Services",
+        "industry": "Capital Markets",
+        "marketCap": 0.15
+      },
+      {
+        "ticker": "TIGR",
+        "name": "UP Fintech Holding Limited",
+        "sector": "Financial Services",
+        "industry": "Capital Markets",
+        "marketCap": 1.17
+      },
+      {
+        "ticker": "UP",
+        "name": "Wheels Up Experience Inc.",
+        "sector": "Industrials",
+        "industry": "Airports & Air Services",
+        "marketCap": 0.36
+      },
+      {
+        "ticker": "DOYU",
+        "name": "DouYu International Holdings Li",
+        "sector": "Communication Services",
+        "industry": "Internet Content & Information",
+        "marketCap": 0.15
+      },
+      {
+        "ticker": "HUYA",
+        "name": "HUYA Inc.",
+        "sector": "Communication Services",
+        "industry": "Entertainment",
+        "marketCap": 0.68
+      },
+      {
+        "ticker": "RLX",
+        "name": "RLX Technology Inc.",
+        "sector": "Consumer Defensive",
+        "industry": "Tobacco",
+        "marketCap": 2.77
+      },
+      {
+        "ticker": "MNSO",
+        "name": "MINISO Group Holding Limited",
+        "sector": "Consumer Cyclical",
+        "industry": "Specialty Retail",
+        "marketCap": 5.07
+      },
+      {
+        "ticker": "BZ",
+        "name": "KANZHUN LIMITED - American Depo",
+        "sector": "Communication Services",
+        "industry": "Internet Content & Information",
+        "marketCap": 6.33
+      },
+      {
+        "ticker": "FINV",
+        "name": "FinVolution Group",
+        "sector": "Financial Services",
+        "industry": "Credit Services",
+        "marketCap": 1.42
+      },
+      {
+        "ticker": "CODA",
+        "name": "Coda Octopus Group, Inc.",
+        "sector": "Industrials",
+        "industry": "Aerospace & Defense",
+        "marketCap": 0.13
+      },
+      {
+        "ticker": "API",
+        "name": "Agora, Inc.",
+        "sector": "Technology",
+        "industry": "Software - Application",
+        "marketCap": 0.31
+      },
+      {
+        "ticker": "LEGN",
+        "name": "Legend Biotech Corporation",
+        "sector": "Healthcare",
+        "industry": "Biotechnology",
+        "marketCap": 3.22
+      },
+      {
+        "ticker": "ZLAB",
+        "name": "Zai Lab Limited",
+        "sector": "Healthcare",
+        "industry": "Biotechnology",
+        "marketCap": 2.0
+      },
+      {
+        "ticker": "CAN",
+        "name": "Canaan Inc.",
+        "sector": "Technology",
+        "industry": "Computer Hardware",
+        "marketCap": 0.3
+      },
+      {
+        "ticker": "CLPS",
+        "name": "CLPS Incorporation",
+        "sector": "Technology",
+        "industry": "Information Technology Services",
+        "marketCap": 0.03
+      },
+      {
+        "ticker": "AGMH",
+        "name": "AGM Group Holdings Inc.",
+        "sector": "Technology",
+        "industry": "Computer Hardware",
+        "marketCap": 0.0
+      },
+      {
+        "ticker": "AIXI",
+        "name": "XIAO-I Corporation",
+        "sector": "Technology",
+        "industry": "Software - Application",
+        "marketCap": 0.0
+      }
+    ],
+    "DE": [
+      {
+        "ticker": "VWAGY",
+        "name": "Volkswagen AG",
+        "sector": "Consumer Cyclical",
+        "industry": "Auto Manufacturers",
+        "marketCap": 50.07
+      },
+      {
+        "ticker": "SIEGY",
+        "name": "Siemens AG",
+        "sector": "Industrials",
+        "industry": "Specialty Industrial Machinery",
+        "marketCap": 181.51
+      },
+      {
+        "ticker": "BAYRY",
+        "name": "Bayer A.G.",
+        "sector": "Healthcare",
+        "industry": "Drug Manufacturers - General",
+        "marketCap": 43.4
+      },
+      {
+        "ticker": "RHHBY",
+        "name": "Roche Holding Ltd",
+        "sector": "Healthcare",
+        "industry": "Drug Manufacturers - General",
+        "marketCap": 305.23
+      },
+      {
+        "ticker": "DB",
+        "name": "Deutsche Bank AG",
+        "sector": "Financial Services",
+        "industry": "Banks - Regional",
+        "marketCap": 55.22
+      },
+      {
+        "ticker": "BASFY",
+        "name": "BASF SE",
+        "sector": "Basic Materials",
+        "industry": "Chemicals",
+        "marketCap": 47.11
+      },
+      {
+        "ticker": "DTEGY",
+        "name": "Deutsche Telekom AG",
+        "sector": "Communication Services",
+        "industry": "Telecom Services",
+        "marketCap": 177.86
+      },
+      {
+        "ticker": "ALIZF",
+        "name": "Allianz SE",
+        "sector": "Financial Services",
+        "industry": "Insurance - Diversified",
+        "marketCap": 152.62
+      },
+      {
+        "ticker": "CRZBY",
+        "name": "Commerzbank AG",
+        "sector": "Financial Services",
+        "industry": "Banks - Regional",
+        "marketCap": 39.38
+      },
+      {
+        "ticker": "HENKY",
+        "name": "Henkel AG & Co. KGAA",
+        "sector": "Consumer Defensive",
+        "industry": "Household & Personal Products",
+        "marketCap": 29.76
+      },
+      {
+        "ticker": "PMMAF",
+        "name": "PUMA SE",
+        "sector": "Consumer Cyclical",
+        "industry": "Footwear & Accessories",
+        "marketCap": 3.71
+      },
+      {
+        "ticker": "TKAMY",
+        "name": "ThyssenKrupp AG",
+        "sector": "Industrials",
+        "industry": "Conglomerates",
+        "marketCap": 5.53
+      },
+      {
+        "ticker": "EADSY",
+        "name": "Airbus SE",
+        "sector": "Industrials",
+        "industry": "Aerospace & Defense",
+        "marketCap": 146.91
+      }
+    ],
+    "GB": [
+      {
+        "ticker": "BP",
+        "name": "BP p.l.c.",
+        "sector": "Energy",
+        "industry": "Oil & Gas Integrated",
+        "marketCap": 114.71
+      },
+      {
+        "ticker": "SHEL",
+        "name": "Shell PLC",
+        "sector": "Energy",
+        "industry": "Oil & Gas Integrated",
+        "marketCap": 254.34
+      },
+      {
+        "ticker": "HSBC",
+        "name": "HSBC Holdings, plc.",
+        "sector": "Financial Services",
+        "industry": "Banks - Diversified",
+        "marketCap": 264.52
+      },
+      {
+        "ticker": "BCS",
+        "name": "Barclays PLC",
+        "sector": "Financial Services",
+        "industry": "Banks - Diversified",
+        "marketCap": 69.64
+      },
+      {
+        "ticker": "LYG",
+        "name": "Lloyds Banking Group Plc",
+        "sector": "Financial Services",
+        "industry": "Banks - Regional",
+        "marketCap": 71.6
+      },
+      {
+        "ticker": "AZN",
+        "name": "AstraZeneca PLC",
+        "sector": "Healthcare",
+        "industry": "Drug Manufacturers - General",
+        "marketCap": 284.63
+      },
+      {
+        "ticker": "GSK",
+        "name": "GSK plc",
+        "sector": "Healthcare",
+        "industry": "Drug Manufacturers - General",
+        "marketCap": 104.12
+      },
+      {
+        "ticker": "DEO",
+        "name": "Diageo plc",
+        "sector": "Consumer Defensive",
+        "industry": "Beverages - Wineries & Distilleries",
+        "marketCap": 41.06
+      },
+      {
+        "ticker": "BTI",
+        "name": "British American Tobacco  Indus",
+        "sector": "Consumer Defensive",
+        "industry": "Tobacco",
+        "marketCap": 125.28
+      },
+      {
+        "ticker": "AZ",
+        "name": "A2Z Cust2Mate Solutions Corp.",
+        "sector": "Technology",
+        "industry": "Software - Application",
+        "marketCap": 0.26
+      },
+      {
+        "ticker": "VOD",
+        "name": "Vodafone Group Plc",
+        "sector": "Communication Services",
+        "industry": "Telecom Services",
+        "marketCap": 33.23
+      },
+      {
+        "ticker": "RIO",
+        "name": "Rio Tinto Plc",
+        "sector": "Basic Materials",
+        "industry": "Other Industrial Metals & Mining",
+        "marketCap": 135.18
+      },
+      {
+        "ticker": "LNVGY",
+        "name": "Lenovo Group Ltd.",
+        "sector": "Technology",
+        "industry": "Computer Hardware",
+        "marketCap": 14.34
+      },
+      {
+        "ticker": "EXPGY",
+        "name": "Experian plc",
+        "sector": "Industrials",
+        "industry": "Consulting Services",
+        "marketCap": 31.84
+      },
+      {
+        "ticker": "AVVIY",
+        "name": "Aviva Plc",
+        "sector": "Financial Services",
+        "industry": "Insurance - Diversified",
+        "marketCap": 24.9
+      },
+      {
+        "ticker": "BRDCY",
+        "name": "Bridgestone Corp.",
+        "sector": "Consumer Cyclical",
+        "industry": "Auto Parts",
+        "marketCap": 25.58
+      },
+      {
+        "ticker": "CMWAY",
+        "name": "Commonwealth Bank of Australia",
+        "sector": "Financial Services",
+        "industry": "Banks - Diversified",
+        "marketCap": 203.96
+      },
+      {
+        "ticker": "DGEAF",
+        "name": "Diageo plc",
+        "sector": "Consumer Defensive",
+        "industry": "Beverages - Wineries & Distilleries",
+        "marketCap": 41.13
+      },
+      {
+        "ticker": "HBCYF",
+        "name": "HSBC Holdings Plc",
+        "sector": "Financial Services",
+        "industry": "Banks - Diversified",
+        "marketCap": 260.9
+      },
+      {
+        "ticker": "RBSPF",
+        "name": "NatWest Group plc",
+        "sector": "Financial Services",
+        "industry": "Banks - Regional",
+        "marketCap": 57.41
+      },
+      {
+        "ticker": "WPP",
+        "name": "WPP plc",
+        "sector": "Communication Services",
+        "industry": "Advertising Agencies",
+        "marketCap": 3.26
+      }
+    ],
+    "CA": [
+      {
+        "ticker": "TD",
+        "name": "Toronto Dominion Bank (The)",
+        "sector": "Financial Services",
+        "industry": "Banks - Diversified",
+        "marketCap": 154.24
+      },
+      {
+        "ticker": "RY",
+        "name": "Royal Bank Of Canada",
+        "sector": "Financial Services",
+        "industry": "Banks - Diversified",
+        "marketCap": 222.24
+      },
+      {
+        "ticker": "BMO",
+        "name": "Bank Of Montreal",
+        "sector": "Financial Services",
+        "industry": "Banks - Diversified",
+        "marketCap": 94.86
+      },
+      {
+        "ticker": "BNS",
+        "name": "Bank Nova Scotia Halifax Pfd 3",
+        "sector": "Financial Services",
+        "industry": "Banks - Diversified",
+        "marketCap": 84.29
+      },
+      {
+        "ticker": "CM",
+        "name": "Canadian Imperial Bank of Comme",
+        "sector": "Financial Services",
+        "industry": "Banks - Diversified",
+        "marketCap": 86.77
+      },
+      {
+        "ticker": "ENB",
+        "name": "Enbridge Inc",
+        "sector": "Energy",
+        "industry": "Oil & Gas Midstream",
+        "marketCap": 116.68
+      },
+      {
+        "ticker": "SU",
+        "name": "Suncor Energy  Inc.",
+        "sector": "Energy",
+        "industry": "Oil & Gas Integrated",
+        "marketCap": 75.86
+      },
+      {
+        "ticker": "CVE",
+        "name": "Cenovus Energy Inc",
+        "sector": "Energy",
+        "industry": "Oil & Gas Integrated",
+        "marketCap": 47.28
+      },
+      {
+        "ticker": "CNI",
+        "name": "Canadian National Railway Compa",
+        "sector": "Industrials",
+        "industry": "Railroads",
+        "marketCap": 60.25
+      },
+      {
+        "ticker": "CP",
+        "name": "Canadian Pacific Kansas City Li",
+        "sector": "Industrials",
+        "industry": "Railroads",
+        "marketCap": 70.26
+      },
+      {
+        "ticker": "ABX",
+        "name": "Abacus Global Management, Inc.",
+        "sector": "Financial Services",
+        "industry": "Insurance - Life",
+        "marketCap": 0.88
+      },
+      {
+        "ticker": "NTR",
+        "name": "Nutrien Ltd.",
+        "sector": "Basic Materials",
+        "industry": "Agricultural Inputs",
+        "marketCap": 36.15
+      },
+      {
+        "ticker": "MFC",
+        "name": "Manulife Financial Corporation",
+        "sector": "Financial Services",
+        "industry": "Insurance - Life",
+        "marketCap": 56.67
+      },
+      {
+        "ticker": "SLF",
+        "name": "Sun Life Financial Inc.",
+        "sector": "Financial Services",
+        "industry": "Insurance - Diversified",
+        "marketCap": 34.44
+      },
+      {
+        "ticker": "QSR",
+        "name": "Restaurant Brands International",
+        "sector": "Consumer Cyclical",
+        "industry": "Restaurants",
+        "marketCap": 33.62
+      },
+      {
+        "ticker": "SHOP",
+        "name": "Shopify Inc.",
+        "sector": "Technology",
+        "industry": "Software - Application",
+        "marketCap": 152.41
+      },
+      {
+        "ticker": "TRI",
+        "name": "Thomson Reuters Corp",
+        "sector": "Industrials",
+        "industry": "Specialty Business Services",
+        "marketCap": 41.47
+      },
+      {
+        "ticker": "CNQ",
+        "name": "Canadian Natural Resources Limi",
+        "sector": "Energy",
+        "industry": "Oil & Gas E&P",
+        "marketCap": 102.25
+      },
+      {
+        "ticker": "IMO",
+        "name": "Imperial Oil Limited",
+        "sector": "Energy",
+        "industry": "Oil & Gas Integrated",
+        "marketCap": 62.96
+      },
+      {
+        "ticker": "PD",
+        "name": "PagerDuty, Inc.",
+        "sector": "Technology",
+        "industry": "Software - Application",
+        "marketCap": 0.64
+      },
+      {
+        "ticker": "L",
+        "name": "Loews Corporation",
+        "sector": "Financial Services",
+        "industry": "Insurance - Property & Casualty",
+        "marketCap": 21.82
+      },
+      {
+        "ticker": "EMA",
+        "name": "Emera Incorporated",
+        "sector": "Utilities",
+        "industry": "Utilities - Regulated Electric",
+        "marketCap": 15.52
+      },
+      {
+        "ticker": "AQN",
+        "name": "Algonquin Power & Utilities Cor",
+        "sector": "Utilities",
+        "industry": "Utilities - Diversified",
+        "marketCap": 4.81
+      },
+      {
+        "ticker": "FTS",
+        "name": "Fortis Inc.",
+        "sector": "Utilities",
+        "industry": "Utilities - Regulated Electric",
+        "marketCap": 27.94
+      },
+      {
+        "ticker": "H",
+        "name": "Hyatt Hotels Corporation",
+        "sector": "Consumer Cyclical",
+        "industry": "Lodging",
+        "marketCap": 13.42
+      },
+      {
+        "ticker": "BCE",
+        "name": "BCE, Inc.",
+        "sector": "Communication Services",
+        "industry": "Telecom Services",
+        "marketCap": 24.12
+      },
+      {
+        "ticker": "T",
+        "name": "AT&T Inc.",
+        "sector": "Communication Services",
+        "industry": "Telecom Services",
+        "marketCap": 200.7
+      }
+    ],
+    "JP": [
+      {
+        "ticker": "SONY",
+        "name": "Sony Group Corporation",
+        "sector": "Technology",
+        "industry": "Consumer Electronics",
+        "marketCap": 120.12
+      },
+      {
+        "ticker": "TM",
+        "name": "Toyota Motor Corporation",
+        "sector": "Consumer Cyclical",
+        "industry": "Auto Manufacturers",
+        "marketCap": 267.21
+      },
+      {
+        "ticker": "HMC",
+        "name": "Honda Motor Company, Ltd.",
+        "sector": "Consumer Cyclical",
+        "industry": "Auto Manufacturers",
+        "marketCap": 31.65
+      },
+      {
+        "ticker": "NTDOY",
+        "name": "Nintendo Co., Ltd.",
+        "sector": "Communication Services",
+        "industry": "Electronic Gaming & Multimedia",
+        "marketCap": 68.96
+      },
+      {
+        "ticker": "MFG",
+        "name": "Mizuho Financial Group, Inc. Sp",
+        "sector": "Financial Services",
+        "industry": "Banks - Regional",
+        "marketCap": 92.84
+      },
+      {
+        "ticker": "SMFG",
+        "name": "Sumitomo Mitsui Financial Group",
+        "sector": "Financial Services",
+        "industry": "Banks - Diversified",
+        "marketCap": 121.41
+      },
+      {
+        "ticker": "NSANY",
+        "name": "Nissan Motor Co., Ltd.",
+        "sector": "Consumer Cyclical",
+        "industry": "Auto Manufacturers",
+        "marketCap": 7.36
+      },
+      {
+        "ticker": "KYOCY",
+        "name": "Kyocera Corp.",
+        "sector": "Industrials",
+        "industry": "Conglomerates",
+        "marketCap": 19.54
+      },
+      {
+        "ticker": "FUJIY",
+        "name": "FUJIFILM Holdings Corp.",
+        "sector": "Industrials",
+        "industry": "Conglomerates",
+        "marketCap": 22.34
+      },
+      {
+        "ticker": "HTHIY",
+        "name": "Hitachi Ltd.",
+        "sector": "Industrials",
+        "industry": "Conglomerates",
+        "marketCap": 132.02
+      },
+      {
+        "ticker": "ITOCY",
+        "name": "Itochu Corp.",
+        "sector": "Industrials",
+        "industry": "Conglomerates",
+        "marketCap": 87.65
+      },
+      {
+        "ticker": "MUFG",
+        "name": "Mitsubishi UFJ Financial Group,",
+        "sector": "Financial Services",
+        "industry": "Banks - Diversified",
+        "marketCap": 185.68
+      },
+      {
+        "ticker": "DSNKY",
+        "name": "Daiichi Sankyo Co., Ltd.",
+        "sector": "Healthcare",
+        "industry": "Drug Manufacturers - General",
+        "marketCap": 33.0
+      },
+      {
+        "ticker": "FANUY",
+        "name": "Fanuc Corporation",
+        "sector": "Industrials",
+        "industry": "Specialty Industrial Machinery",
+        "marketCap": 33.09
+      },
+      {
+        "ticker": "KDDIY",
+        "name": "KDDI Corp.",
+        "sector": "Communication Services",
+        "industry": "Telecom Services",
+        "marketCap": 62.76
+      },
+      {
+        "ticker": "SEKEY",
+        "name": "Seiko Epson Corp.",
+        "sector": "Technology",
+        "industry": "Computer Hardware",
+        "marketCap": 3.83
+      },
+      {
+        "ticker": "SFNXF",
+        "name": "Sofina SA",
+        "sector": "Financial Services",
+        "industry": "Asset Management",
+        "marketCap": 9.47
+      },
+      {
+        "ticker": "SSUMY",
+        "name": "Sumitomo Corp.",
+        "sector": "Industrials",
+        "industry": "Conglomerates",
+        "marketCap": 41.44
+      },
+      {
+        "ticker": "TOELY",
+        "name": "Tokyo Electron Ltd.",
+        "sector": "Technology",
+        "industry": "Semiconductor Equipment & Materials",
+        "marketCap": 105.88
+      },
+      {
+        "ticker": "TOYOF",
+        "name": "Toyota Motor Corp.",
+        "sector": "Consumer Cyclical",
+        "industry": "Auto Manufacturers",
+        "marketCap": 267.84
+      }
+    ],
+    "FR": [
+      {
+        "ticker": "LVMUY",
+        "name": "LVMH-Moet Hennessy Louis Vuitto",
+        "sector": "Consumer Cyclical",
+        "industry": "Luxury Goods",
+        "marketCap": 260.75
+      },
+      {
+        "ticker": "CFRHF",
+        "name": "Compagnie Financiere Richemont ",
+        "sector": "Consumer Cyclical",
+        "industry": "Luxury Goods",
+        "marketCap": 97.48
+      },
+      {
+        "ticker": "HESAY",
+        "name": "Hermes International SA",
+        "sector": "Consumer Cyclical",
+        "industry": "Luxury Goods",
+        "marketCap": 198.57
+      },
+      {
+        "ticker": "BNPQY",
+        "name": "BNP Paribas",
+        "sector": "Financial Services",
+        "industry": "Banks - Regional",
+        "marketCap": 105.53
+      },
+      {
+        "ticker": "CRARY",
+        "name": "Credit Agricole SA",
+        "sector": "Financial Services",
+        "industry": "Banks - Regional",
+        "marketCap": 55.43
+      },
+      {
+        "ticker": "AIRYY",
+        "name": "Air China, Ltd.",
+        "sector": "Industrials",
+        "industry": "Airlines",
+        "marketCap": 24.82
+      },
+      {
+        "ticker": "SNYNF",
+        "name": "Sanofi",
+        "sector": "Healthcare",
+        "industry": "Drug Manufacturers - General",
+        "marketCap": 108.55
+      },
+      {
+        "ticker": "RCRRF",
+        "name": "Recruit Holdings Co., Ltd.",
+        "sector": "Communication Services",
+        "industry": "Internet Content & Information",
+        "marketCap": 54.17
+      },
+      {
+        "ticker": "AXAHY",
+        "name": "AXA",
+        "sector": "Financial Services",
+        "industry": "Insurance - Diversified",
+        "marketCap": 90.92
+      },
+      {
+        "ticker": "SGBLY",
+        "name": "Standard Bank Group Ltd.",
+        "sector": "Financial Services",
+        "industry": "Banks - Regional",
+        "marketCap": 28.35
+      },
+      {
+        "ticker": "ENLAY",
+        "name": "ENEL Societa per Azioni",
+        "sector": "Utilities",
+        "industry": "Utilities - Diversified",
+        "marketCap": 106.6
+      },
+      {
+        "ticker": "STMEF",
+        "name": "STMicroelectronics N.V.",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "marketCap": 28.24
+      },
+      {
+        "ticker": "PUBGY",
+        "name": "Publicis Groupe S.A.",
+        "sector": "Communication Services",
+        "industry": "Advertising Agencies",
+        "marketCap": 20.68
+      },
+      {
+        "ticker": "VEOEY",
+        "name": "Veolia Environnement",
+        "sector": "Industrials",
+        "industry": "Waste Management",
+        "marketCap": 26.22
+      },
+      {
+        "ticker": "HOCPY",
+        "name": "Hoya Corp.",
+        "sector": "Healthcare",
+        "industry": "Medical Instruments & Supplies",
+        "marketCap": 56.82
+      }
+    ],
+    "CH": [
+      {
+        "ticker": "NVS",
+        "name": "Novartis AG",
+        "sector": "Healthcare",
+        "industry": "Drug Manufacturers - General",
+        "marketCap": 282.29
+      },
+      {
+        "ticker": "RHHBY",
+        "name": "Roche Holding Ltd",
+        "sector": "Healthcare",
+        "industry": "Drug Manufacturers - General",
+        "marketCap": 305.23
+      },
+      {
+        "ticker": "NSRGY",
+        "name": "Nestle S.A.",
+        "sector": "Consumer Defensive",
+        "industry": "Packaged Foods",
+        "marketCap": 248.46
+      },
+      {
+        "ticker": "UBS",
+        "name": "UBS Group AG Registered",
+        "sector": "Financial Services",
+        "industry": "Banks - Diversified",
+        "marketCap": 116.05
+      },
+      {
+        "ticker": "CSGP",
+        "name": "CoStar Group, Inc.",
+        "sector": "Real Estate",
+        "industry": "Real Estate Services",
+        "marketCap": 18.18
+      },
+      {
+        "ticker": "CFR",
+        "name": "Cullen/Frost Bankers, Inc.",
+        "sector": "Financial Services",
+        "industry": "Banks - Regional",
+        "marketCap": 8.36
+      },
+      {
+        "ticker": "SCMWY",
+        "name": "Swisscom AG",
+        "sector": "Communication Services",
+        "industry": "Telecom Services",
+        "marketCap": 46.44
+      },
+      {
+        "ticker": "SGSOY",
+        "name": "SGS SA",
+        "sector": "Industrials",
+        "industry": "Consulting Services",
+        "marketCap": 21.06
+      },
+      {
+        "ticker": "ZFSVF",
+        "name": "Zurich Insurance Group Ltd",
+        "sector": "Financial Services",
+        "industry": "Insurance - Diversified",
+        "marketCap": 100.38
+      },
+      {
+        "ticker": "ZURVY",
+        "name": "Zurich Insurance Group Ltd",
+        "sector": "Financial Services",
+        "industry": "Insurance - Diversified",
+        "marketCap": 102.26
+      },
+      {
+        "ticker": "LOGN",
+        "name": "Logansport Financial Corp.",
+        "sector": "Financial Services",
+        "industry": "Banks - Regional",
+        "marketCap": 0.02
+      }
+    ],
+    "KR": [
+      {
+        "ticker": "SSNLF",
+        "name": "SAMSUNG ELECTRONICS CO",
+        "sector": "Technology",
+        "industry": "Consumer Electronics",
+        "marketCap": 436.0
+      },
+      {
+        "ticker": "LPL",
+        "name": "LG Display Co, Ltd AMERICAN DEP",
+        "sector": "Technology",
+        "industry": "Consumer Electronics",
+        "marketCap": 4.02
+      },
+      {
+        "ticker": "PKX",
+        "name": "POSCO Holdings Inc.",
+        "sector": "Basic Materials",
+        "industry": "Steel",
+        "marketCap": 16.84
+      },
+      {
+        "ticker": "KB",
+        "name": "KB Financial Group Inc",
+        "sector": "Financial Services",
+        "industry": "Banks - Regional",
+        "marketCap": 36.17
+      },
+      {
+        "ticker": "SHG",
+        "name": "Shinhan Financial Group Co Ltd",
+        "sector": "Financial Services",
+        "industry": "Banks - Regional",
+        "marketCap": 30.76
+      },
+      {
+        "ticker": "HDB",
+        "name": "HDFC Bank Limited",
+        "sector": "Financial Services",
+        "industry": "Banks - Regional",
+        "marketCap": 130.27
+      }
+    ],
+    "IN": [
+      {
+        "ticker": "INFY",
+        "name": "Infosys Limited",
+        "sector": "Technology",
+        "industry": "Information Technology Services",
+        "marketCap": 53.86
+      },
+      {
+        "ticker": "WIT",
+        "name": "Wipro Limited",
+        "sector": "Technology",
+        "industry": "Information Technology Services",
+        "marketCap": 22.52
+      },
+      {
+        "ticker": "HDB",
+        "name": "HDFC Bank Limited",
+        "sector": "Financial Services",
+        "industry": "Banks - Regional",
+        "marketCap": 130.27
+      },
+      {
+        "ticker": "IBN",
+        "name": "ICICI Bank Limited",
+        "sector": "Financial Services",
+        "industry": "Banks - Regional",
+        "marketCap": 95.1
+      },
+      {
+        "ticker": "MFIN",
+        "name": "Medallion Financial Corp.",
+        "sector": "Financial Services",
+        "industry": "Credit Services",
+        "marketCap": 0.2
+      },
+      {
+        "ticker": "ICLR",
+        "name": "ICON plc",
+        "sector": "Healthcare",
+        "industry": "Diagnostics & Research",
+        "marketCap": 7.75
+      },
+      {
+        "ticker": "YTRA",
+        "name": "Yatra Online, Inc.",
+        "sector": "Consumer Cyclical",
+        "industry": "Travel Services",
+        "marketCap": 0.07
+      },
+      {
+        "ticker": "CLOV",
+        "name": "Clover Health Investments, Corp",
+        "sector": "Healthcare",
+        "industry": "Healthcare Plans",
+        "marketCap": 0.99
+      }
+    ],
+    "AU": [
+      {
+        "ticker": "BHP",
+        "name": "BHP Group Limited",
+        "sector": "Basic Materials",
+        "industry": "Other Industrial Metals & Mining",
+        "marketCap": 166.46
+      },
+      {
+        "ticker": "RIO",
+        "name": "Rio Tinto Plc",
+        "sector": "Basic Materials",
+        "industry": "Other Industrial Metals & Mining",
+        "marketCap": 135.18
+      },
+      {
+        "ticker": "NABZY",
+        "name": "National Australia Bank Ltd. (V",
+        "sector": "Financial Services",
+        "industry": "Banks - Diversified",
+        "marketCap": 97.95
+      },
+      {
+        "ticker": "CMWAY",
+        "name": "Commonwealth Bank of Australia",
+        "sector": "Financial Services",
+        "industry": "Banks - Diversified",
+        "marketCap": 203.96
+      },
+      {
+        "ticker": "MQBKY",
+        "name": "Macquarie Group, Ltd.",
+        "sector": "Financial Services",
+        "industry": "Capital Markets",
+        "marketCap": 51.04
+      },
+      {
+        "ticker": "CSLLY",
+        "name": "CSL Ltd.",
+        "sector": "Healthcare",
+        "industry": "Biotechnology",
+        "marketCap": 46.51
+      },
+      {
+        "ticker": "ATLCY",
+        "name": "Atlas Copco AB",
+        "sector": "Industrials",
+        "industry": "Specialty Industrial Machinery",
+        "marketCap": 78.9
+      },
+      {
+        "ticker": "BHPLF",
+        "name": "BHP Group Limited",
+        "sector": "Basic Materials",
+        "industry": "Other Industrial Metals & Mining",
+        "marketCap": 162.57
+      },
+      {
+        "ticker": "TCTZF",
+        "name": "Tencent Holding Ltd.",
+        "sector": "Communication Services",
+        "industry": "Internet Content & Information",
+        "marketCap": 571.76
+      }
+    ],
+    "MX": [
+      {
+        "ticker": "AMX",
+        "name": "America Movil, S.A.B. de C.V.",
+        "sector": "Communication Services",
+        "industry": "Telecom Services",
+        "marketCap": 70.61
+      },
+      {
+        "ticker": "TV",
+        "name": "Grupo Televisa S.A.B.",
+        "sector": "Communication Services",
+        "industry": "Telecom Services",
+        "marketCap": 1.51
+      },
+      {
+        "ticker": "MX",
+        "name": "Magnachip Semiconductor Corpora",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "marketCap": 0.1
+      },
+      {
+        "ticker": "OMAB",
+        "name": "Grupo Aeroportuario del Centro ",
+        "sector": "Industrials",
+        "industry": "Airports & Air Services",
+        "marketCap": 5.25
+      }
+    ],
+    "ES": [
+      {
+        "ticker": "BBVA",
+        "name": "Banco Bilbao Vizcaya Argentaria",
+        "sector": "Financial Services",
+        "industry": "Banks - Diversified",
+        "marketCap": 116.64
+      },
+      {
+        "ticker": "SAN",
+        "name": "Banco Santander, S.A. Sponsored",
+        "sector": "Financial Services",
+        "industry": "Banks - Diversified",
+        "marketCap": 153.68
+      },
+      {
+        "ticker": "TEF",
+        "name": "Telefonica SA",
+        "sector": "Communication Services",
+        "industry": "Telecom Services",
+        "marketCap": 21.49
+      },
+      {
+        "ticker": "IBDRY",
+        "name": "Iberdrola S.A.",
+        "sector": "Utilities",
+        "industry": "Utilities - Diversified",
+        "marketCap": 148.35
+      },
+      {
+        "ticker": "IDEXY",
+        "name": "Industria de Diseno Textil Indi",
+        "sector": "Consumer Cyclical",
+        "industry": "Apparel Retail",
+        "marketCap": 179.74
+      },
+      {
+        "ticker": "MDRX",
+        "name": "Veradigm Inc.",
+        "sector": "Healthcare",
+        "industry": "Health Information Services",
+        "marketCap": 0.52
+      },
+      {
+        "ticker": "GASNY",
+        "name": "Naturgy Energy Group SA",
+        "sector": "Utilities",
+        "industry": "Utilities - Regulated Gas",
+        "marketCap": 28.0
+      },
+      {
+        "ticker": "NTDOF",
+        "name": "Nintendo Co., Ltd.",
+        "sector": "Communication Services",
+        "industry": "Electronic Gaming & Multimedia",
+        "marketCap": 69.78
+      }
+    ],
+    "IT": [
+      {
+        "ticker": "STMEF",
+        "name": "STMicroelectronics N.V.",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "marketCap": 28.24
+      },
+      {
+        "ticker": "PIAGF",
+        "name": "Piaggio & C Spa Pontedera",
+        "sector": "Consumer Cyclical",
+        "industry": "Auto Manufacturers",
+        "marketCap": 0.64
+      },
+      {
+        "ticker": "FWONA",
+        "name": "Liberty Media Corporation - Ser",
+        "sector": "Communication Services",
+        "industry": "Entertainment",
+        "marketCap": 18.66
+      },
+      {
+        "ticker": "CRZBY",
+        "name": "Commerzbank AG",
+        "sector": "Financial Services",
+        "industry": "Banks - Regional",
+        "marketCap": 39.38
+      }
+    ],
+    "NL": [
+      {
+        "ticker": "ASML",
+        "name": "ASML Holding N.V. - New York Re",
+        "sector": "Technology",
+        "industry": "Semiconductor Equipment & Materials",
+        "marketCap": 517.23
+      },
+      {
+        "ticker": "PHG",
+        "name": "Koninklijke Philips N.V. NY Reg",
+        "sector": "Healthcare",
+        "industry": "Medical Devices",
+        "marketCap": 25.16
+      },
+      {
+        "ticker": "NN",
+        "name": "NextNav Inc.",
+        "sector": "Technology",
+        "industry": "Software - Infrastructure",
+        "marketCap": 2.43
+      },
+      {
+        "ticker": "AEGOF",
+        "name": "AEGON LIMITED",
+        "sector": "Financial Services",
+        "industry": "Insurance - Diversified",
+        "marketCap": 10.66
+      },
+      {
+        "ticker": "AKZOY",
+        "name": "Akzo Nobel N.V.",
+        "sector": "Basic Materials",
+        "industry": "Specialty Chemicals",
+        "marketCap": 9.34
+      }
+    ],
+    "SE": [
+      {
+        "ticker": "ATLKY",
+        "name": "Atlas Copco AB",
+        "sector": "Industrials",
+        "industry": "Specialty Industrial Machinery",
+        "marketCap": 81.53
+      },
+      {
+        "ticker": "SWDBY",
+        "name": "Swedbank AB",
+        "sector": "Financial Services",
+        "industry": "Banks - Regional",
+        "marketCap": 39.39
+      },
+      {
+        "ticker": "HNNMY",
+        "name": "Hennes & Mauritz AB",
+        "sector": "Consumer Cyclical",
+        "industry": "Apparel Manufacturing",
+        "marketCap": 28.25
+      },
+      {
+        "ticker": "SSAAY",
+        "name": "SSab Swedish Steel AB",
+        "sector": "Basic Materials",
+        "industry": "Steel",
+        "marketCap": 8.3
+      },
+      {
+        "ticker": "SKFRY",
+        "name": "AB SKF",
+        "sector": "Industrials",
+        "industry": "Tools & Accessories",
+        "marketCap": 10.18
+      },
+      {
+        "ticker": "VOLAF",
+        "name": "Volvo AB",
+        "sector": "Industrials",
+        "industry": "Farm & Heavy Construction Machinery",
+        "marketCap": 59.51
+      }
+    ],
+    "IL": [
+      {
+        "ticker": "CHKP",
+        "name": "Check Point Software Technologi",
+        "sector": "Technology",
+        "industry": "Software - Infrastructure",
+        "marketCap": 16.4
+      },
+      {
+        "ticker": "NICE",
+        "name": "NICE Ltd",
+        "sector": "Technology",
+        "industry": "Software - Application",
+        "marketCap": 7.2
+      },
+      {
+        "ticker": "WIX",
+        "name": "Wix.com Ltd.",
+        "sector": "Technology",
+        "industry": "Software - Infrastructure",
+        "marketCap": 5.16
+      },
+      {
+        "ticker": "CYBR",
+        "name": "CyberArk Software Ltd.",
+        "sector": "Technology",
+        "industry": "Software - Infrastructure",
+        "marketCap": 20.64
+      },
+      {
+        "ticker": "MNDY",
+        "name": "monday.com Ltd.",
+        "sector": "Technology",
+        "industry": "Software - Application",
+        "marketCap": 3.81
+      },
+      {
+        "ticker": "GLBE",
+        "name": "Global-E Online Ltd.",
+        "sector": "Consumer Cyclical",
+        "industry": "Internet Retail",
+        "marketCap": 5.49
+      },
+      {
+        "ticker": "TEVA",
+        "name": "Teva Pharmaceutical Industries ",
+        "sector": "Healthcare",
+        "industry": "Drug Manufacturers - Specialty & Generic",
+        "marketCap": 33.46
+      },
+      {
+        "ticker": "NNDM",
+        "name": "Nano Dimension Ltd.",
+        "sector": "Technology",
+        "industry": "Computer Hardware",
+        "marketCap": 0.35
+      },
+      {
+        "ticker": "NNOX",
+        "name": "NANO-X IMAGING LTD",
+        "sector": "Healthcare",
+        "industry": "Medical Devices",
+        "marketCap": 0.17
+      }
+    ],
+    "HK": [
+      {
+        "ticker": "BEKE",
+        "name": "KE Holdings Inc",
+        "sector": "Real Estate",
+        "industry": "Real Estate Services",
+        "marketCap": 18.08
+      },
+      {
+        "ticker": "FINV",
+        "name": "FinVolution Group",
+        "sector": "Financial Services",
+        "industry": "Credit Services",
+        "marketCap": 1.42
+      },
+      {
+        "ticker": "KRKR",
+        "name": "36Kr Holdings Inc.",
+        "sector": "Communication Services",
+        "industry": "Advertising Agencies",
+        "marketCap": 0.01
+      },
+      {
+        "ticker": "HKXCF",
+        "name": "Hong Kong Exchange & Clearing L",
+        "sector": "Financial Services",
+        "industry": "Financial Data & Stock Exchanges",
+        "marketCap": 63.29
+      },
+      {
+        "ticker": "HSNGF",
+        "name": "Hang Seng Bank Ltd.",
+        "sector": "",
+        "industry": "",
+        "marketCap": 42.11
+      },
+      {
+        "ticker": "PNGAY",
+        "name": "Ping An Insurance (Group) Compa",
+        "sector": "Financial Services",
+        "industry": "Insurance - Life",
+        "marketCap": 149.76
+      }
+    ],
+    "TW": [
+      {
+        "ticker": "TSM",
+        "name": "Taiwan Semiconductor Manufactur",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "marketCap": 1707.6
+      },
+      {
+        "ticker": "ASX",
+        "name": "ASE Technology Holding Co., Ltd",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "marketCap": 46.61
+      },
+      {
+        "ticker": "UMC",
+        "name": "United Microelectronics Corpora",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "marketCap": 23.15
+      },
+      {
+        "ticker": "MRVL",
+        "name": "Marvell Technology, Inc.",
+        "sector": "Technology",
+        "industry": "Semiconductors",
+        "marketCap": 76.86
+      }
+    ],
+    "AR": [
+      {
+        "ticker": "BMA",
+        "name": "Banco Macro S.A.",
+        "sector": "Financial Services",
+        "industry": "Banks - Regional",
+        "marketCap": 4.39
+      },
+      {
+        "ticker": "GGAL",
+        "name": "Grupo Financiero Galicia S.A.",
+        "sector": "Financial Services",
+        "industry": "Banks - Regional",
+        "marketCap": 7.2
+      },
+      {
+        "ticker": "SUPV",
+        "name": "Grupo Supervielle S.A.",
+        "sector": "Financial Services",
+        "industry": "Banks - Regional",
+        "marketCap": 0.76
+      },
+      {
+        "ticker": "CEPU",
+        "name": "Central Puerto S.A.",
+        "sector": "Utilities",
+        "industry": "Utilities - Regulated Electric",
+        "marketCap": 2.41
+      },
+      {
+        "ticker": "PAM",
+        "name": "Pampa Energia S.A.",
+        "sector": "Industrials",
+        "industry": "Conglomerates",
+        "marketCap": 4.61
+      },
+      {
+        "ticker": "TGS",
+        "name": "Transportadora de Gas del Sur S",
+        "sector": "Energy",
+        "industry": "Oil & Gas Integrated",
+        "marketCap": 5.04
+      },
+      {
+        "ticker": "LOMA",
+        "name": "Loma Negra Compania Industrial ",
+        "sector": "Basic Materials",
+        "industry": "Building Materials",
+        "marketCap": 1.32
+      },
+      {
+        "ticker": "EDN",
+        "name": "Empresa Distribuidora Y Comerci",
+        "sector": "Utilities",
+        "industry": "Utilities - Regulated Electric",
+        "marketCap": 1.3
+      }
+    ],
+    "CL": [
+      {
+        "ticker": "LTM",
+        "name": "LATAM Airlines Group S.A.",
+        "sector": "Industrials",
+        "industry": "Airlines",
+        "marketCap": 13.97
+      },
+      {
+        "ticker": "BSAC",
+        "name": "Banco Santander - Chile",
+        "sector": "Financial Services",
+        "industry": "Banks - Regional",
+        "marketCap": 14.63
+      },
+      {
+        "ticker": "BCH",
+        "name": "Banco De Chile",
+        "sector": "Financial Services",
+        "industry": "Banks - Regional",
+        "marketCap": 18.83
+      },
+      {
+        "ticker": "ECL",
+        "name": "Ecolab Inc.",
+        "sector": "Basic Materials",
+        "industry": "Specialty Chemicals",
+        "marketCap": 72.64
+      },
+      {
+        "ticker": "ENIC",
+        "name": "Enel Chile S.A.",
+        "sector": "Utilities",
+        "industry": "Utilities - Regulated Electric",
+        "marketCap": 5.41
+      },
+      {
+        "ticker": "SQM",
+        "name": "Sociedad Quimica y Minera S.A.",
+        "sector": "Basic Materials",
+        "industry": "Specialty Chemicals",
+        "marketCap": 20.33
+      },
+      {
+        "ticker": "CCU",
+        "name": "Compania Cervecerias Unidas, S.",
+        "sector": "Consumer Defensive",
+        "industry": "Beverages - Brewers",
+        "marketCap": 2.07
+      },
+      {
+        "ticker": "ENIC",
+        "name": "Enel Chile S.A.",
+        "sector": "Utilities",
+        "industry": "Utilities - Regulated Electric",
+        "marketCap": 5.41
+      }
+    ],
+    "CO": [
+      {
+        "ticker": "CIB",
+        "name": "Grupo Cibest S.A.",
+        "sector": "Financial Services",
+        "industry": "Banks - Regional",
+        "marketCap": 17.93
+      }
+    ],
+    "ZA": [
+      {
+        "ticker": "GFI",
+        "name": "Gold Fields Limited",
+        "sector": "Basic Materials",
+        "industry": "Gold",
+        "marketCap": 34.97
+      },
+      {
+        "ticker": "GOLD",
+        "name": "Gold.com, Inc.",
+        "sector": "Financial Services",
+        "industry": "Capital Markets",
+        "marketCap": 1.19
+      },
+      {
+        "ticker": "ANGPY",
+        "name": "VALTERRA PLATINUM LTD",
+        "sector": "Basic Materials",
+        "industry": "Other Precious Metals & Mining",
+        "marketCap": 19.95
+      },
+      {
+        "ticker": "SAPMY",
+        "name": "Saipem S.p.A.",
+        "sector": "Energy",
+        "industry": "Oil & Gas Equipment & Services",
+        "marketCap": 7.93
+      },
+      {
+        "ticker": "MTNOY",
+        "name": "MTN Group Ltd.",
+        "sector": "Communication Services",
+        "industry": "Telecom Services",
+        "marketCap": 20.6
+      },
+      {
+        "ticker": "VODAF",
+        "name": "VODACOM GROUP LIMITED",
+        "sector": "Communication Services",
+        "industry": "Telecom Services",
+        "marketCap": 15.94
+      }
+    ]
+  },
+  "invalid": {
+    "US": [
+      "DFS",
+      "PXD",
+      "PARA"
+    ],
+    "BR": [
+      "ELP",
+      "ERJ",
+      "BRFS",
+      "CBD",
+      "VIVO",
+      "ARCE",
+      "SMTO"
+    ],
+    "CN": [
+      "DIDI",
+      "BGNE",
+      "CIFS"
+    ],
+    "DE": [
+      "BMWYY",
+      "DPSGY",
+      "DDAIF",
+      "MRCYY",
+      "SAIGY",
+      "AUDVF",
+      "VOWG"
+    ],
+    "GB": [
+      "LLOYF",
+      "STANF",
+      "ULVR",
+      "BATS"
+    ],
+    "CA": [
+      "WSP",
+      "POW",
+      "FFH",
+      "ATD",
+      "HSE",
+      "ERF",
+      "TOT",
+      "MRU"
+    ],
+    "JP": [
+      "MTU",
+      "MSBHY",
+      "NISMY",
+      "PCRFY"
+    ],
+    "FR": [
+      "TTFNF",
+      "ORAN",
+      "TOTAL",
+      "DANO",
+      "MICHF"
+    ],
+    "CH": [
+      "ABBN",
+      "GIVN",
+      "SHLEF",
+      "GEBN",
+      "SIKA"
+    ],
+    "KR": [
+      "HYMTF",
+      "HXSCF",
+      "KBSTY",
+      "SKHYF",
+      "LGCLF",
+      "LGEAF",
+      "SMSN",
+      "KRGLY",
+      "KSLYY",
+      "POSCO"
+    ],
+    "IN": [
+      "VEDL",
+      "REDFF",
+      "RECON",
+      "MBFY",
+      "AZRE",
+      "IRCTC",
+      "IIFL"
+    ],
+    "AU": [
+      "ANZBY",
+      "WBCAY",
+      "RIOAF",
+      "WOVUF",
+      "NWSLF",
+      "AMCRY"
+    ],
+    "MX": [
+      "GMEXICOB",
+      "FEMSAUBD",
+      "BIMBOA",
+      "CEMEXCPO",
+      "GRUMAB",
+      "LABB"
+    ],
+    "ES": [
+      "REP",
+      "ACGPF",
+      "AMDRF",
+      "FSDDF"
+    ],
+    "IT": [
+      "ENEL",
+      "ENI",
+      "ISP",
+      "UCG",
+      "LUX",
+      "FCAU",
+      "ENIOY",
+      "FIADF"
+    ],
+    "NL": [
+      "HEIA",
+      "INGA",
+      "RDSA",
+      "AHOLD",
+      "NXPLF",
+      "WOLFF",
+      "RDSAF"
+    ],
+    "SE": [
+      "VOLVY",
+      "ERICB",
+      "ATCOF",
+      "ATCO"
+    ],
+    "IL": [
+      "SMFR",
+      "SGCL",
+      "NVEI"
+    ],
+    "HK": [
+      "AAWWF",
+      "SWKLY"
+    ],
+    "TW": [
+      "AUO",
+      "SPIL",
+      "HISMF",
+      "ACER",
+      "ASUSF"
+    ],
+    "AR": [
+      "MER",
+      "IRCP",
+      "VALO",
+      "CRES",
+      "TECO2",
+      "TXAR",
+      "ALUA"
+    ],
+    "CL": [
+      "ANDINA",
+      "CMPC",
+      "COPEC",
+      "ENTEL",
+      "FALABELLA"
+    ],
+    "CO": [
+      "CEMIG",
+      "GXG",
+      "PFBCOLOM",
+      "GRUPOESAL"
+    ],
+    "ZA": [
+      "NPN",
+      "ANG",
+      "SXCL"
+    ]
+  }
+}
